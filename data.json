@@ -1,0 +1,5467 @@
+{
+    "Data": [
+        {
+            "id": "1",
+            "image": "Milk1.avif",
+            "name": "Amul Gold Full Cream Fresh Milk",
+            "category": "milk",
+            "weight": "500 ml",
+            "price": "33",
+            "deleteprice": ""
+        },
+        {
+            "id": "2",
+            "image": "Milk2.avif",
+            "name": "Amul Taaza Toned Fresh Milk",
+            "category": "milk",
+            "weight": "500 ml",
+            "price": "27",
+            "deleteprice": ""
+        },
+        {
+            "id": "3",
+            "image": "Milk3.avif",
+            "name": "Amul Taaza Homogenised Toned Milk",
+            "category": "milk",
+            "weight": "1 l",
+            "price": "74",
+            "deleteprice": ""
+        },
+        {
+            "id": "4",
+            "image": "Milk4.avif",
+            "name": "Kellogg's Chocos Chocos Multigrain Variety Pack",
+            "category": "milk",
+            "weight": "7 units + 500 ml",
+            "price": "78",
+            "deleteprice": "97"
+        },
+        {
+            "id": "5",
+            "image": "Milk5.avif",
+            "name": "Amul Taaza Toned Milk",
+            "category": "milk",
+            "weight": "200 ml",
+            "price": "16",
+            "deleteprice": ""
+        },
+        {
+            "id": "6",
+            "image": "Milk6.avif",
+            "name": "Amul Gold Milk",
+            "category": "milk",
+            "weight": "1 l",
+            "price": "80",
+            "deleteprice": ""
+        },
+        {
+            "id": "7",
+            "image": "Milk7.avif",
+            "name": "Amul Moti Toned Milk (90 Days Shelf Life)",
+            "category": "milk",
+            "weight": "450 ml",
+            "price": "33",
+            "deleteprice": ""
+        },
+        {
+            "id": "8",
+            "image": "Milk8.avif",
+            "name": "Amul Lactose Free Milk",
+            "category": "milk",
+            "weight": "250 ml",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "9",
+            "image": "Milk9.avif",
+            "name": "Yakult Probiotic Drink",
+            "category": "milk",
+            "weight": "5 * 65 ml",
+            "price": "90",
+            "deleteprice": ""
+        },
+        {
+            "id": "10",
+            "image": "Milk10.avif",
+            "name": "Kellogg's Real Almond Honey Corn Flakes",
+            "category": "milk",
+            "weight": "168g + 500 ml",
+            "price": "100",
+            "deleteprice": "120"
+        },
+        {
+            "id": "11",
+            "image": "Milk11.avif",
+            "name": "Kellogg's Original Cereals Corn Flakesk",
+            "category": "milk",
+            "weight": "475 g + 500 ml",
+            "price": "198",
+            "deleteprice": "222"
+        },
+        {
+            "id": "12",
+            "image": "Milk12.avif",
+            "name": "Amul Slim 'n' Trim Skimmed Milk (Zero Cholesterol)",
+            "category": "milk",
+            "weight": "1 l",
+            "price": "80",
+            "deleteprice": ""
+        },
+        {
+            "id": "13",
+            "image": "Milk13.avif",
+            "name": "Yakult Light Probiotic Drink",
+            "category": "milk",
+            "weight": "5 * 65 ml",
+            "price": "100",
+            "deleteprice": ""
+        },
+        {
+            "id": "14",
+            "image": "Milk14.avif",
+            "name": "Gajar Halwa Combo",
+            "category": "milk",
+            "weight": "500 ml + 500 g",
+            "price": "56",
+            "deleteprice": "68"
+        },
+        {
+            "id": "15",
+            "image": "Milk15.avif",
+            "name": "Amul Calci + Milk",
+            "category": "milk",
+            "weight": "250 ml",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "16",
+            "image": "Milk16.avif",
+            "name": "Amul A2 Buffalo Milk",
+            "category": "milk",
+            "weight": "1 l",
+            "price": "86",
+            "deleteprice": ""
+        },
+        {
+            "id": "17",
+            "image": "Milk17.avif",
+            "name": "Amul Cow Milk",
+            "category": "milk",
+            "weight": "1 l",
+            "price": "74",
+            "deleteprice": ""
+        },
+        {
+            "id": "18",
+            "image": "Milk18.avif",
+            "name": "Gajar Halwa",
+            "category": "milk",
+            "weight": "500 g + 200 g + 1l",
+            "price": "203",
+            "deleteprice": "216"
+        },
+        {
+            "id": "19",
+            "image": "Milk19.avif",
+            "name": "Kellogg's Multigrain Chocos Crunchy Bites, Kids Cereal",
+            "category": "milk",
+            "weight": "375 g + 500 ml",
+            "price": "210",
+            "deleteprice": "242"
+        },
+        {
+            "id": "20",
+            "image": "Pav1.avif",
+            "name": "Super Crustless White Bread",
+            "category": "pav",
+            "weight": "300 g",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "21",
+            "image": "Pav2.avif",
+            "name": "Kabhi B Double Roti Whole Wheat Bread",
+            "category": "pav",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "22",
+            "image": "Pav3.avif",
+            "name": "Kabhi B White Bread",
+            "category": "pav",
+            "weight": "300 g",
+            "price": "32",
+            "deleteprice": ""
+        },
+        {
+            "id": "23",
+            "image": "Pav4.avif",
+            "name": "Super Double Roti 100% Wheat Bread",
+            "category": "pav",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "24",
+            "image": "Pav5.avif",
+            "name": "Super Crustless Big Slice Brown Bread",
+            "category": "pav",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "25",
+            "image": "Pav6.avif",
+            "name": "Super White Bread",
+            "category": "pav",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "26",
+            "image": "Pav7.avif",
+            "name": "Super Multigrain Bread",
+            "category": "pav",
+            "weight": "400 g",
+            "price": "60",
+            "deleteprice": ""
+        },
+        {
+            "id": "27",
+            "image": "Pav8.avif",
+            "name": "Kabhi B Pizza Base",
+            "category": "pav",
+            "weight": "200 g (2 pieces)",
+            "price": "41",
+            "deleteprice": ""
+        },
+        {
+            "id": "28",
+            "image": "Pav9.avif",
+            "name": "Super Burger Bun",
+            "category": "pav",
+            "weight": "150 g (2 pieces)",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "29",
+            "image": "Pav10.avif",
+            "name": "Kabhi B Seeded Burger Bun",
+            "category": "pav",
+            "weight": "200 g (2 pieces)",
+            "price": "41",
+            "deleteprice": ""
+        },
+        {
+            "id": "30",
+            "image": "Pav11.avif",
+            "name": "Super Atta / Wheat Bread",
+            "category": "pav",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "31",
+            "image": "Pav12.avif",
+            "name": "Super Fruit Bread",
+            "category": "pav",
+            "weight": "50 g",
+            "price": "15",
+            "deleteprice": ""
+        },
+        {
+            "id": "32",
+            "image": "Pav13.avif",
+            "name": "The Baker's Dozen Christmas Cake",
+            "category": "pav",
+            "weight": "120 g",
+            "price": "179",
+            "deleteprice": "199"
+        },
+        {
+            "id": "33",
+            "image": "Pav14.avif",
+            "name": "The Baker's Dozen 100% Wholewheat Banana Bread",
+            "category": "pav",
+            "weight": "150 g",
+            "price": "165",
+            "deleteprice": ""
+        },
+        {
+            "id": "34",
+            "image": "Pav15.avif",
+            "name": "The Baker's Dozen 100% Wholewheat Chilli Garlic Bread Sticks",
+            "category": "pav",
+            "weight": "100 g",
+            "price": "129",
+            "deleteprice": ""
+        },
+        {
+            "id": "35",
+            "image": "Pav16.avif",
+            "name": "The Baker's Dozen Christmas Cupcake",
+            "category": "pav",
+            "weight": "120 g",
+            "price": "179",
+            "deleteprice": "199"
+        },
+        {
+            "id": "36",
+            "image": "Pav17.avif",
+            "name": "American Garden Plain Bread Crumbs",
+            "category": "pav",
+            "weight": "425 g",
+            "price": "325",
+            "deleteprice": ""
+        },
+        {
+            "id": "37",
+            "image": "Pav18.avif",
+            "name": "Kabhi B Multigrain Bread",
+            "category": "pav",
+            "weight": "400 g",
+            "price": "60",
+            "deleteprice": ""
+        },
+        {
+            "id": "38",
+            "image": "Pav19.avif",
+            "name": "Kabhi B Pav",
+            "category": "pav",
+            "weight": "400 g (12 pieces)",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "39",
+            "image": "Pav20.avif",
+            "name": "Kabhi B Crustless White Bread",
+            "category": "pav",
+            "weight": "300 g",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "40",
+            "image": "Pav21.avif",
+            "name": "Super Brown Bread",
+            "category": "pav",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "41",
+            "image": "Pav22.avif",
+            "name": "Wingreens Farms Truffle Cheese Dip + Multigrain Baked Flat Bread Sticks Combo",
+            "category": "pav",
+            "weight": "180 g + 100 g",
+            "price": "258",
+            "deleteprice": "400"
+        },
+        {
+            "id": "42",
+            "image": "Pav23.avif",
+            "name": "Winkies Special Fruit Cake (Box)",
+            "category": "pav",
+            "weight": "365 g",
+            "price": "240",
+            "deleteprice": ""
+        },
+        {
+            "id": "43",
+            "image": "Pav24.avif",
+            "name": "Wingreens Farms Original Olive Hummus Dip",
+            "category": "pav",
+            "weight": "100 g + 150 g",
+            "price": "236",
+            "deleteprice": "350"
+        },
+        {
+            "id": "44",
+            "image": "Pav25.avif",
+            "name": "Wingreens Farms Classic Hummus Dip",
+            "category": "pav",
+            "weight": "150 g + 100 g",
+            "price": "241",
+            "deleteprice": "350"
+        },
+        {
+            "id": "45",
+            "image": "Pav26.avif",
+            "name": "Wingreens Farms Multigrain Baked Flat Bread Sticks",
+            "category": "pav",
+            "weight": "100 g",
+            "price": "135",
+            "deleteprice": "150"
+        },
+        {
+            "id": "46",
+            "image": "Pav27.avif",
+            "name": "Wingreens Farms Garlic Dip",
+            "category": "pav",
+            "weight": "150 g + 100 g",
+            "price": "235",
+            "deleteprice": "350"
+        },
+        {
+            "id": "47",
+            "image": "Pav28.avif",
+            "name": "Saucery Hummus Dip",
+            "category": "pav",
+            "weight": "150 g + 100 g",
+            "price": "315",
+            "deleteprice": "350"
+        },
+        {
+            "id": "48",
+            "image": "Pav29.avif",
+            "name": "Wingreens Farms Peri Peri Hummus Dip",
+            "category": "pav",
+            "weight": "100 g + 150 g",
+            "price": "234",
+            "deleteprice": "350"
+        },
+        {
+            "id": "49",
+            "image": "Pav30.avif",
+            "name": "Saucery Roasted Garlic & Spring Onion Dip",
+            "category": "pav",
+            "weight": "150 g + 100 g",
+            "price": "315",
+            "deleteprice": "350"
+        },
+        {
+            "id": "50",
+            "image": "Pav31.avif",
+            "name": "Wingreens Farms Peri Peri Garlic Dip",
+            "category": "pav",
+            "weight": "150 g + 100 g",
+            "price": "243",
+            "deleteprice": "350"
+        },
+        {
+            "id": "51",
+            "image": "Pav32.avif",
+            "name": "Wingreens Farms Chilli Cheese Dip",
+            "category": "pav",
+            "weight": "180 g + 100 g",
+            "price": "258",
+            "deleteprice": "400"
+        },
+        {
+            "id": "52",
+            "image": "Pav33.avif",
+            "name": "Wingreens Farms Basil Pesto Dip",
+            "category": "pav",
+            "weight": "150 g + 100 g",
+            "price": "271",
+            "deleteprice": "400"
+        },
+        {
+            "id": "53",
+            "image": "Pav34.avif",
+            "name": "Wingreens Farms Classic Nacho Cheese Dip",
+            "category": "pav",
+            "weight": "180 g + 100 g",
+            "price": "258",
+            "deleteprice": "400"
+        },
+        {
+            "id": "54",
+            "image": "Pav35.avif",
+            "name": "Wingreens Farms Multigrain Baked Flat Bread Sticks",
+            "category": "pav",
+            "weight": "100 g + 150 g",
+            "price": "275",
+            "deleteprice": "400"
+        },
+        {
+            "id": "55",
+            "image": "Pav36.avif",
+            "name": "Saucery Sundried Tomato Pesto",
+            "category": "pav",
+            "weight": "200 g + 100 g",
+            "price": "396",
+            "deleteprice": "440"
+        },
+        {
+            "id": "56",
+            "image": "Pav37.avif",
+            "name": "Saucery Aglio Olio Sauce",
+            "category": "pav",
+            "weight": "100 g + 200 g",
+            "price": "396",
+            "deleteprice": "440"
+        },
+        {
+            "id": "57",
+            "image": "Pav38.avif",
+            "name": "The Baker's Dozen Plum Cake",
+            "category": "pav",
+            "weight": "300 g",
+            "price": "495",
+            "deleteprice": ""
+        },
+        {
+            "id": "58",
+            "image": "Pav39.avif",
+            "name": "The Baker's Dozen Plum Cake",
+            "category": "pav",
+            "weight": "150 g",
+            "price": "275",
+            "deleteprice": ""
+        },
+        {
+            "id": "59",
+            "image": "Flakes1.avif",
+            "name": "Kellogg's Corn Flakes Original",
+            "category": "flakes",
+            "weight": "475 g",
+            "price": "185",
+            "deleteprice": "195"
+        },
+        {
+            "id": "60",
+            "image": "Flakes2.avif",
+            "name": "Kellogg's Multigrain Chocos Variety Pack",
+            "category": "flakes",
+            "weight": "7 units",
+            "price": "64",
+            "deleteprice": "70"
+        },
+        {
+            "id": "61",
+            "image": "Flakes3.avif",
+            "name": "Kellogg's Corn Flakes with Immuno Nutrients",
+            "category": "flakes",
+            "weight": "250 g",
+            "price": "120",
+            "deleteprice": ""
+        },
+        {
+            "id": "62",
+            "image": "Flakes4.avif",
+            "name": "Kellogg's Double Chocolaty Fills Chocos (Crunchy Outside, Creamy Inside)",
+            "category": "flakes",
+            "weight": "250 g",
+            "price": "185",
+            "deleteprice": "205"
+        },
+        {
+            "id": "63",
+            "image": "Flakes5.avif",
+            "name": "Kellogg's Real Almond Honey Corn Flakes",
+            "category": "flakes",
+            "weight": "1 kg",
+            "price": "369",
+            "deleteprice": "580"
+        },
+        {
+            "id": "64",
+            "image": "Flakes6.avif",
+            "name": "Kellogg's Multigrain Chocos More Chocolatey, No-Maida",
+            "category": "flakes",
+            "weight": "385 g",
+            "price": "215",
+            "deleteprice": ""
+        },
+        {
+            "id": "65",
+            "image": "Flakes7.avif",
+            "name": "Kellogg's Real Almond Honey Corn Flakes",
+            "category": "flakes",
+            "weight": "168 g",
+            "price": "94",
+            "deleteprice": "99"
+        },
+        {
+            "id": "66",
+            "image": "Flakes8.avif",
+            "name": "Kellogg's Corn Flakes Original",
+            "category": "flakes",
+            "weight": "1.2 kg",
+            "price": "376",
+            "deleteprice": "510"
+        },
+        {
+            "id": "67",
+            "image": "Flakes9.avif",
+            "name": "Kellogg's Multigrain Chocos Moons & Stars",
+            "category": "flakes",
+            "weight": "1.2 kg",
+            "price": "411",
+            "deleteprice": "750"
+        },
+        {
+            "id": "68",
+            "image": "Flakes10.avif",
+            "name": "Kellogg's Multigrain Chocos Moons & Stars Kids Cereal",
+            "category": "flakes",
+            "weight": "360 g",
+            "price": "215",
+            "deleteprice": ""
+        },
+        {
+            "id": "69",
+            "image": "Flakes11.avif",
+            "name": "Strawberry Puree Corn Flakes",
+            "category": "flakes",
+            "weight": "275 g",
+            "price": "180",
+            "deleteprice": ""
+        },
+        {
+            "id": "70",
+            "image": "Flakes12.avif",
+            "name": "Slurrp Farm Choco Crunch Breakfast Cereal for Kids",
+            "category": "flakes",
+            "weight": "400 g",
+            "price": "299",
+            "deleteprice": ""
+        },
+        {
+            "id": "71",
+            "image": "Flakes13.avif",
+            "name": "Bagrry's Corn Flakes Plus Original & Healthier",
+            "category": "flakes",
+            "weight": "880 g",
+            "price": "246",
+            "deleteprice": "399"
+        },
+        {
+            "id": "72",
+            "image": "Flakes14.avif",
+            "name": "Kellogg's Froot Loops - Crunchy Multigrain Cereal",
+            "category": "flakes",
+            "weight": "285 g",
+            "price": "195",
+            "deleteprice": "205"
+        },
+        {
+            "id": "73",
+            "image": "Flakes15.avif",
+            "name": "Kellogg's Chocos Chocos Multigrain Variety Pack - Pack of 3",
+            "category": "flakes",
+            "weight": "3 * 7 units",
+            "price": "183",
+            "deleteprice": "210"
+        },
+        {
+            "id": "74",
+            "image": "Flakes16.avif",
+            "name": "Yoga Bar No Maida Choco Cereal",
+            "category": "flakes",
+            "weight": "345 g",
+            "price": "130",
+            "deleteprice": "260"
+        },
+        {
+            "id": "75",
+            "image": "Flakes17.avif",
+            "name": "Kwality Fruitrings Cereal",
+            "category": "flakes",
+            "weight": "375 g",
+            "price": "159",
+            "deleteprice": "240"
+        },
+        {
+            "id": "76",
+            "image": "Flakes18.avif",
+            "name": "Tata Soulfull Ragi Bites Breakfast Cereal Combo pack",
+            "category": "flakes",
+            "weight": "5 * 28",
+            "price": "99",
+            "deleteprice": ""
+        },
+        {
+            "id": "77",
+            "image": "Flakes19.avif",
+            "name": "Kellogg's All Bran Wheat Flakes",
+            "category": "flakes",
+            "weight": "425 g",
+            "price": "265",
+            "deleteprice": "290"
+        },
+        {
+            "id": "78",
+            "image": "Flakes20.avif",
+            "name": "Hide & Seek Fills Cereal",
+            "category": "flakes",
+            "weight": "200 g",
+            "price": "94",
+            "deleteprice": "140"
+        },
+        {
+            "id": "79",
+            "image": "Flakes21.avif",
+            "name": "Kwality Almond & Honey Corn Flakes",
+            "category": "flakes",
+            "weight": "1 kg",
+            "price": "376",
+            "deleteprice": "699"
+        },
+        {
+            "id": "80",
+            "image": "Flakes22.avif",
+            "name": "Kellogg's Multigrain Chocos More Chocolatey, No-Maida",
+            "category": "flakes",
+            "weight": "1.10 kg",
+            "price": "550",
+            "deleteprice": ""
+        },
+        {
+            "id": "81",
+            "image": "Flakes23.avif",
+            "name": "Kellogg's Corn Flakes With Real Honey",
+            "category": "flakes",
+            "weight": "300 g",
+            "price": "170",
+            "deleteprice": "185"
+        },
+        {
+            "id": "82",
+            "image": "Flakes24.avif",
+            "name": "Kellogg's Hershey's Chocos, Breakfast Cereal for Kids",
+            "category": "flakes",
+            "weight": "325 g",
+            "price": "215",
+            "deleteprice": "235"
+        },
+        {
+            "id": "83",
+            "image": "Flakes25.avif",
+            "name": "Yoga Bar Crunchy Corn Flakes with Probiotics",
+            "category": "flakes",
+            "weight": "850 g",
+            "price": "183",
+            "deleteprice": "355"
+        },
+        {
+            "id": "84",
+            "image": "Flakes26.avif",
+            "name": "Sundrop Popz Multigran Chocolatey Crunch Fills Kids Cereal",
+            "category": "flakes",
+            "weight": "300 g",
+            "price": "99",
+            "deleteprice": "125"
+        },
+        {
+            "id": "85",
+            "image": "Flakes27.avif",
+            "name": "Kwality Flakes and Cereal Combo Pack",
+            "category": "flakes",
+            "weight": "110 g",
+            "price": "47",
+            "deleteprice": "60"
+        },
+        {
+            "id": "86",
+            "image": "Flakes28.avif",
+            "name": "Tata Soulfull Ragi Bites Choco Fills, No Maida, Breakfast Cereal",
+            "category": "flakes",
+            "weight": "500 g",
+            "price": "281",
+            "deleteprice": "349"
+        },
+        {
+            "id": "87",
+            "image": "Flakes29.avif",
+            "name": "Kellogg's Chocos Cereal",
+            "category": "flakes",
+            "weight": "168 g + 7 units",
+            "price": "149",
+            "deleteprice": "169"
+        },
+        {
+            "id": "88",
+            "image": "Flakes30.avif",
+            "name": "Kellogg's Real Almond Honey Corn Flakes",
+            "category": "flakes",
+            "weight": "650 g",
+            "price": "420",
+            "deleteprice": ""
+        },
+        {
+            "id": "89",
+            "image": "Flakes31.avif",
+            "name": "Kellogg's Chocos Chocos Multigrain Variety Pack",
+            "category": "flakes",
+            "weight": "7 units + 40 g",
+            "price": "117",
+            "deleteprice": "130"
+        },
+        {
+            "id": "90",
+            "image": "Flakes32.avif",
+            "name": "Kellogg's Original Cereals Corn Flakes",
+            "category": "flakes",
+            "weight": "168 g + 475 g",
+            "price": "265",
+            "deleteprice": "304"
+        },
+        {
+            "id": "91",
+            "image": "Flakes33.avif",
+            "name": "Kellogg's Original Cereals Corn Flakes",
+            "category": "flakes",
+            "weight": "250 g + 1.2 kg",
+            "price": "490",
+            "deleteprice": "630"
+        },
+        {
+            "id": "92",
+            "image": "Flakes34.avif",
+            "name": "Kellogg's Real Almond Honey Corn Flakes",
+            "category": "flakes",
+            "weight": "168 g + 107 g",
+            "price": "197",
+            "deleteprice": "219"
+        },
+        {
+            "id": "93",
+            "image": "Flakes35.avif",
+            "name": "Kellogg's Real Almond Honey Corn Flakes",
+            "category": "flakes",
+            "weight": "168 g + 40 g",
+            "price": "143",
+            "deleteprice": "159"
+        },
+        {
+            "id": "94",
+            "image": "Flakes36.avif",
+            "name": "Kellogg's Chocos Fills Double Chocolaty Snack Cereal",
+            "category": "flakes",
+            "weight": "102 g + 250 g",
+            "price": "273",
+            "deleteprice": "325"
+        },
+        {
+            "id": "95",
+            "image": "Flakes37.avif",
+            "name": "Kellogg's Chocos Fills Double Chocolaty Snack Cereal",
+            "category": "flakes",
+            "weight": "250 g + 107 g",
+            "price": "273",
+            "deleteprice": "325"
+        },
+        {
+            "id": "96",
+            "image": "Flakes38.avif",
+            "name": "Kellogg's Chocos Fills Double Chocolaty Snack Cereal",
+            "category": "flakes",
+            "weight": "250 g + 107 g",
+            "price": "273",
+            "deleteprice": "325"
+        },
+        {
+            "id": "97",
+            "image": "Flakes39.avif",
+            "name": "Kellogg's Chocos Fills Double Chocolaty Snack Cereal",
+            "category": "flakes",
+            "weight": "250 g + 107 g",
+            "price": "273",
+            "deleteprice": "325"
+        },
+        {
+            "id": "98",
+            "image": "Flakes40.avif",
+            "name": "Kellogg's Real Almond Honey Corn Flakes",
+            "category": "flakes",
+            "weight": "168 g + 107 g",
+            "price": "197",
+            "deleteprice": "219"
+        },
+        {
+            "id": "99",
+            "image": "Flakes41.avif",
+            "name": "Crunchy Bites Kids Cereal",
+            "category": "flakes",
+            "weight": "375 g",
+            "price": "185",
+            "deleteprice": "215"
+        },
+        {
+            "id": "100",
+            "image": "Flakes42.avif",
+            "name": "Original Cereal with Whole Wheat",
+            "category": "flakes",
+            "weight": "935 g",
+            "price": "390",
+            "deleteprice": "515"
+        },
+        {
+            "id": "101",
+            "image": "Flakes43.avif",
+            "name": "Original Potato Chips (40 g) Combo",
+            "category": "flakes",
+            "weight": "7 units + 40 g",
+            "price": "117",
+            "deleteprice": "130"
+        },
+        {
+            "id": "102",
+            "image": "Flakes44.avif",
+            "name": "Cream & Onion Potato Chips (40 g) Combo",
+            "category": "flakes",
+            "weight": "375 g + 40 g",
+            "price": "223",
+            "deleteprice": "275"
+        },
+        {
+            "id": "103",
+            "image": "Flakes45.avif",
+            "name": "Pringles Original Potato Chips (40 g) Combo",
+            "category": "flakes",
+            "weight": "168 g + 40 g",
+            "price": "143",
+            "deleteprice": "159"
+        },
+        {
+            "id": "104",
+            "image": "Flakes46.avif",
+            "name": "Honey Corn Flakes Combo",
+            "category": "flakes",
+            "weight": "750 g + 168 g",
+            "price": "463",
+            "deleteprice": "619"
+        },
+        {
+            "id": "105",
+            "image": "Flakes47.avif",
+            "name": "Organic Tattva Organic Quinoa",
+            "category": "flakes",
+            "weight": "500 g",
+            "price": "210",
+            "deleteprice": ""
+        },
+        {
+            "id": "106",
+            "image": "Flakes48.avif",
+            "name": "Kellogg's Chocos Fills Double Chocolaty Snack Cereal",
+            "category": "flakes",
+            "weight": "250 g + 102 g",
+            "price": "269",
+            "deleteprice": "320"
+        },
+        {
+            "id": "107",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's with 0% Added Sugar Muesli",
+            "category": "muesli",
+            "weight": "500 g",
+            "price": "336",
+            "deleteprice": "395"
+        },
+        {
+            "id": "108",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Muesli Fruit, Nut & Seeds",
+            "category": "muesli",
+            "weight": "240 g",
+            "price": "181",
+            "deleteprice": "195"
+        },
+        {
+            "id": "109",
+            "image": "Muesli1.avif",
+            "name": "Yoga Bar Dark Chocolate",
+            "category": "muesli",
+            "weight": "1 pack (4 * 40 g)",
+            "price": "99",
+            "deleteprice": "120"
+        },
+        {
+            "id": "110",
+            "image": "Muesli1.avif",
+            "name": "Yoga Bar Dark Chocolate",
+            "category": "muesli",
+            "weight": "400 g",
+            "price": "332",
+            "deleteprice": "390"
+        },
+        {
+            "id": "111",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Muesli Nuts Delight, Breakfast Cereal",
+            "category": "muesli",
+            "weight": "1 kg",
+            "price": "497",
+            "deleteprice": "830"
+        },
+        {
+            "id": "112",
+            "image": "Muesli1.avif",
+            "name": "True Elements Muesli with Real Fruits, Nuts & Seeds",
+            "category": "muesli",
+            "weight": "1 kg",
+            "price": "403",
+            "deleteprice": "695"
+        },
+        {
+            "id": "113",
+            "image": "Muesli1.avif",
+            "name": "MuscleBlaze High Protein Dark Chocolate & Cranberry Muesli",
+            "category": "muesli",
+            "weight": "400 g",
+            "price": "249",
+            "deleteprice": "399"
+        },
+        {
+            "id": "114",
+            "image": "Muesli1.avif",
+            "name": "Bagrry's Chocolate Muesli With Whey Protein, Almonds & Oats",
+            "category": "muesli",
+            "weight": "500 g",
+            "price": "420",
+            "deleteprice": "449"
+        },
+        {
+            "id": "115",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Chocolate Muesli",
+            "category": "muesli",
+            "weight": "450 g",
+            "price": "360",
+            "deleteprice": ""
+        },
+        {
+            "id": "116",
+            "image": "Muesli1.avif",
+            "name": "Yoga Bar Fruits + Nuts & Seeds Muesli",
+            "category": "muesli",
+            "weight": "700 g",
+            "price": "303",
+            "deleteprice": "499"
+        },
+        {
+            "id": "117",
+            "image": "Muesli1.avif",
+            "name": "Yoga Bar High Protein Muesli (Choco Almond & Cranberry) with Probiotics",
+            "category": "muesli",
+            "weight": "350 g",
+            "price": "238",
+            "deleteprice": "395"
+        },
+        {
+            "id": "118",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Muesli Nuts Delight, Breakfast Cereal",
+            "category": "muesli",
+            "weight": "500 g",
+            "price": "370",
+            "deleteprice": ""
+        },
+        {
+            "id": "119",
+            "image": "Muesli1.avif",
+            "name": "True Elements Dark Chocolate Granola",
+            "category": "muesli",
+            "weight": "400 g",
+            "price": "278",
+            "deleteprice": "295"
+        },
+        {
+            "id": "120",
+            "image": "Muesli1.avif",
+            "name": "Bagrry's Healthy Crunch Nutty Fruity Muesli",
+            "category": "muesli",
+            "weight": "1 kg",
+            "price": "411",
+            "deleteprice": "640"
+        },
+        {
+            "id": "121",
+            "image": "Muesli1.avif",
+            "name": "Yoga Bar 0% Added Sugar Super Muesli (700 g)",
+            "category": "muesli",
+            "weight": "700 g",
+            "price": "400",
+            "deleteprice": "499"
+        },
+        {
+            "id": "122",
+            "image": "Muesli1.avif",
+            "name": "Yoga Bar 0% Added Sugar Super Muesli (400 g)",
+            "category": "muesli",
+            "weight": "400 g",
+            "price": "332",
+            "deleteprice": "390"
+        },
+        {
+            "id": "123",
+            "image": "Muesli1.avif",
+            "name": "Tata Soulfull Millet Muesli With 90% Fruits, Nut & Wholegrain Cereal",
+            "category": "muesli",
+            "weight": "700 g",
+            "price": "342",
+            "deleteprice": "549"
+        },
+        {
+            "id": "124",
+            "image": "Muesli1.avif",
+            "name": "Bagrry's Crunchy Muesli 30% Fruit & Nut with Cranberries",
+            "category": "muesli",
+            "weight": "750 g",
+            "price": "357",
+            "deleteprice": "540"
+        },
+        {
+            "id": "125",
+            "image": "Muesli1.avif",
+            "name": "Saffola Muesli Berry Crunch with Flavour Pops",
+            "category": "muesli",
+            "weight": "450 g",
+            "price": "244",
+            "deleteprice": "325"
+        },
+        {
+            "id": "126",
+            "image": "Muesli1.avif",
+            "name": "Tata Soulfull Millet Muesli, Crunchy, Almonds & Raisins Breakfast Cereal",
+            "category": "muesli",
+            "weight": "700 g",
+            "price": "330",
+            "deleteprice": "499"
+        },
+        {
+            "id": "127",
+            "image": "Muesli1.avif",
+            "name": "Bagrry's Crunchy Muesli With Almonds, Raisins & Honey",
+            "category": "muesli",
+            "weight": "750 g",
+            "price": "406",
+            "deleteprice": "490"
+        },
+        {
+            "id": "128",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Muesli Fruit Magic",
+            "category": "muesli",
+            "weight": "500 g",
+            "price": "370",
+            "deleteprice": ""
+        },
+        {
+            "id": "129",
+            "image": "Muesli1.avif",
+            "name": "Gaia Crunchy Nutty Delight Muesli",
+            "category": "muesli",
+            "weight": "1 kg",
+            "price": "553",
+            "deleteprice": "699"
+        },
+        {
+            "id": "130",
+            "image": "Muesli1.avif",
+            "name": "Gaia Crunchy Muesli (Diet)",
+            "category": "muesli",
+            "weight": "1 kg",
+            "price": "553",
+            "deleteprice": "699"
+        },
+        {
+            "id": "131",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Muesli Crunchy Granola Almond & Cranberries",
+            "category": "muesli",
+            "weight": "460 g",
+            "price": "360",
+            "deleteprice": "390"
+        },
+        {
+            "id": "132",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Crunchy Muesli Granola Chocolate & Almonds Cereal",
+            "category": "muesli",
+            "weight": "450 g",
+            "price": "398",
+            "deleteprice": ""
+        },
+        {
+            "id": "133",
+            "image": "Muesli1.avif",
+            "name": "Tata Soulfull Millet Granola, Almonds And Cranberries Breakfast Cereal",
+            "category": "muesli",
+            "weight": "400 g",
+            "price": "308",
+            "deleteprice": "375"
+        },
+        {
+            "id": "134",
+            "image": "Muesli1.avif",
+            "name": "True Elements Quinoa - Gluten Free & 100% Wholegrain",
+            "category": "muesli",
+            "weight": "1 kg",
+            "price": "280",
+            "deleteprice": "650"
+        },
+        {
+            "id": "135",
+            "image": "Muesli1.avif",
+            "name": "Bagrry's Exotic Fruits with Cranberries & Almonds Granola",
+            "category": "muesli",
+            "weight": "400 g",
+            "price": "316",
+            "deleteprice": "365"
+        },
+        {
+            "id": "136",
+            "image": "Muesli1.avif",
+            "name": "Bagrry's Belgian Dark Chocolate & Almonds Granola",
+            "category": "muesli",
+            "weight": "400 g",
+            "price": "346",
+            "deleteprice": "399"
+        },
+        {
+            "id": "137",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Crunchy Granola Chocolate & Almonds Cereal",
+            "category": "muesli",
+            "weight": "102 g + 450 g",
+            "price": "451",
+            "deleteprice": "518"
+        },
+        {
+            "id": "138",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Crunchy Granola Chocolate & Almonds Cereal",
+            "category": "muesli",
+            "weight": "107 g + 450 g",
+            "price": "451",
+            "deleteprice": "518"
+        },
+        {
+            "id": "139",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Crunchy Granola Chocolate & Almonds Cereal",
+            "category": "muesli",
+            "weight": "107 g + 450 g",
+            "price": "466",
+            "deleteprice": "518"
+        },
+        {
+            "id": "140",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Crunchy Granola Chocolate & Almonds Cereal",
+            "category": "muesli",
+            "weight": "450 g  107 g",
+            "price": "451",
+            "deleteprice": "518"
+        },
+        {
+            "id": "141",
+            "image": "Muesli1.avif",
+            "name": "True Elements Breakfast Muesli and Granola Trial Pack",
+            "category": "muesli",
+            "weight": "180 g (6 * 30 g)",
+            "price": "101",
+            "deleteprice": "180"
+        },
+        {
+            "id": "142",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Muesli Fruit, Nut & Seeds",
+            "category": "muesli",
+            "weight": "750 g",
+            "price": "375",
+            "deleteprice": "520"
+        },
+        {
+            "id": "143",
+            "image": "Muesli1.avif",
+            "name": "Kellogg’s Muesli Fruit Nut & Seeds 12-in-1 Multigrain Cereal",
+            "category": "muesli",
+            "weight": "750 g + 168 g",
+            "price": "463",
+            "deleteprice": "619"
+        },
+        {
+            "id": "144",
+            "image": "Muesli1.avif",
+            "name": "Saffola Muesli Choco Crunch with Flavour Pops",
+            "category": "muesli",
+            "weight": "450 g",
+            "price": "244",
+            "deleteprice": "325"
+        },
+        {
+            "id": "145",
+            "image": "Muesli1.avif",
+            "name": "Saffola Muesli Kesar Crunch with Flavour Pops",
+            "category": "muesli",
+            "weight": "450 g",
+            "price": "212",
+            "deleteprice": "325"
+        },
+        {
+            "id": "146",
+            "image": "Muesli1.avif",
+            "name": "Kellogg's Crunchy Granola Chocolate & Almonds Cereal",
+            "category": "muesli",
+            "weight": "102 g + 450 g",
+            "price": "444",
+            "deleteprice": "513"
+        },
+        {
+            "id": "147",
+            "image": "oats1.avif",
+            "name": "Bagrry's 100% Jumbo Rolled Oats",
+            "category": "oats",
+            "weight": "1 kg",
+            "price": "259",
+            "deleteprice": "490 "
+        },
+        {
+            "id": "148",
+            "image": "oats2.avif",
+            "name": "Quaker Rolled Oats",
+            "category": "oats",
+            "weight": "400 g",
+            "price": "86",
+            "deleteprice": ""
+        },
+        {
+            "id": "149",
+            "image": "oats3.avif",
+            "name": "Quaker Rolled Oats",
+            "category": "oats",
+            "weight": "1 kg",
+            "price": "159",
+            "deleteprice": "210"
+        },
+        {
+            "id": "150",
+            "image": "oats4.avif",
+            "name": "Saffola Classic-Masala Oats",
+            "category": "oats",
+            "weight": "38 g",
+            "price": "17",
+            "deleteprice": ""
+        },
+        {
+            "id": "151",
+            "image": "oats5.avif",
+            "name": "True Elements Rolled Oats - 100% Wholegrain | High Fibre",
+            "category": "oats",
+            "weight": "500 g",
+            "price": "110",
+            "deleteprice": "200"
+        },
+        {
+            "id": "152",
+            "image": "oats6.avif",
+            "name": "Saffola Classic Masala Oats",
+            "category": "oats",
+            "weight": "1 l",
+            "price": "80",
+            "deleteprice": ""
+        },
+        {
+            "id": "153",
+            "image": "oats7.avif",
+            "name": "MuscleBlaze High Protein Oats (Dark Chocolate Flavour)",
+            "category": "oats",
+            "weight": "450 ml",
+            "price": "33",
+            "deleteprice": ""
+        },
+        {
+            "id": "154",
+            "image": "oats8.avif",
+            "name": "Saffola Masala Veggie Twist Oats",
+            "category": "oats",
+            "weight": "250 ml",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "155",
+            "image": "oats9.avif",
+            "name": "Pintola 22 g High Protein Oats (Dark Chocolate)",
+            "category": "oats",
+            "weight": "5 * 65 ml",
+            "price": "90",
+            "deleteprice": ""
+        },
+        {
+            "id": "156",
+            "image": "oats10.avif",
+            "name": "Yoga Bar Dark Chocolate Oats (Gluten Free)",
+            "category": "oats",
+            "weight": "168g + 500 ml",
+            "price": "100",
+            "deleteprice": "120"
+        },
+        {
+            "id": "157",
+            "image": "oats11.avif",
+            "name": "Tata Soulfull Mast Masala Oats With 25% Millets, Non sticky",
+            "category": "oats",
+            "weight": "475 g + 500 ml",
+            "price": "198",
+            "deleteprice": "222"
+        },
+        {
+            "id": "158",
+            "image": "oats12.avif",
+            "name": "Bagrry's 100% Whole Grain White Oats",
+            "category": "oats",
+            "weight": "1 l",
+            "price": "80",
+            "deleteprice": ""
+        },
+        {
+            "id": "159",
+            "image": "oats13.avif",
+            "name": "Yoga Bar 100% Wholegrain Instant Oats",
+            "category": "oats",
+            "weight": "5 * 65 ml",
+            "price": "100",
+            "deleteprice": ""
+        },
+        {
+            "id": "160",
+            "image": "oats14.avif",
+            "name": "Saffola Creamy Oats",
+            "category": "oats",
+            "weight": "500 ml + 500 g",
+            "price": "56",
+            "deleteprice": "68"
+        },
+        {
+            "id": "161",
+            "image": "oats15.avif",
+            "name": "Saffola Masala Peppy Tomato Oats",
+            "category": "oats",
+            "weight": "250 ml",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "162",
+            "image": "oats16.avif",
+            "name": "Tata Soulfull Desi Veggie Masala Oats With 25% Millets, Non Sticky",
+            "category": "oats",
+            "weight": "1 l",
+            "price": "86",
+            "deleteprice": ""
+        },
+        {
+            "id": "163",
+            "image": "oats17.avif",
+            "name": "Pintola High Protein Oats (Dark Chocolate)",
+            "category": "oats",
+            "weight": "1 l",
+            "price": "74",
+            "deleteprice": ""
+        },
+        {
+            "id": "164",
+            "image": "oats18.avif",
+            "name": "Saffola Classic Masala & Spicy Mexican Oats",
+            "category": "oats",
+            "weight": "500 g + 200 g + 1l",
+            "price": "203",
+            "deleteprice": "216"
+        },
+        {
+            "id": "165",
+            "image": "oats19.avif",
+            "name": "Yoga Bar 20 G Protein Oats + (Choco Almond)",
+            "category": "oats",
+            "weight": "375 g + 500 ml",
+            "price": "210",
+            "deleteprice": "242"
+        },
+        {
+            "id": "166",
+            "image": "oats20.avif",
+            "name": "Bagrry's 100% Whole Grain Oats Flour",
+            "category": "oats",
+            "weight": "300 g",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "167",
+            "image": "oats21.avif",
+            "name": "Yoga Bar 100% Rolled Oats (Gluten Free)",
+            "category": "oats",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "168",
+            "image": "oats22.avif",
+            "name": "Quaker Mixed Berries Instant Oats",
+            "category": "oats",
+            "weight": "300 g",
+            "price": "32",
+            "deleteprice": ""
+        },
+        {
+            "id": "169",
+            "image": "oats23.avif",
+            "name": "True Elements Rolled Oats (High Protein, Gluten Free)",
+            "category": "oats",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "170",
+            "image": "oats24.avif",
+            "name": "Manna Instant Oats",
+            "category": "oats",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "171",
+            "image": "oats25.avif",
+            "name": "Oats (100% Wholegrain, High Fibre)",
+            "category": "oats",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "172",
+            "image": "oats26.avif",
+            "name": "Manna Whole Grain Rolled Oats",
+            "category": "oats",
+            "weight": "400 g",
+            "price": "60",
+            "deleteprice": ""
+        },
+        {
+            "id": "173",
+            "image": "oats27.avif",
+            "name": "Tata Soulfull Tomato Twist Masala Oats",
+            "category": "oats",
+            "weight": "200 g (2 pieces)",
+            "price": "41",
+            "deleteprice": ""
+        },
+        {
+            "id": "174",
+            "image": "oats28.avif",
+            "name": "Quaker Rolled Oats (1.5 kg)",
+            "category": "oats",
+            "weight": "150 g (2 pieces)",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "175",
+            "image": "oats29.avif",
+            "name": "Quaker Herby Cheese Instant Oats",
+            "category": "oats",
+            "weight": "200 g (2 pieces)",
+            "price": "41",
+            "deleteprice": ""
+        },
+        {
+            "id": "176",
+            "image": "oats30.avif",
+            "name": "Saffola Veggie Twist Masala Oats",
+            "category": "oats",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "177",
+            "image": "oats31.avif",
+            "name": "Quaker Instant Masala Magic Oats",
+            "category": "oats",
+            "weight": "50 g",
+            "price": "15",
+            "deleteprice": ""
+        },
+        {
+            "id": "178",
+            "image": "oats32.avif",
+            "name": "Pintola 22 g High Protein Oats (Dark Chocolate) + Wholegrain Brown Rice Cake Combo",
+            "category": "oats",
+            "weight": "120 g",
+            "price": "179",
+            "deleteprice": "199"
+        },
+        {
+            "id": "179",
+            "image": "oats33.avif",
+            "name": "Pintola High Protein Oats (Dark Chocolate)",
+            "category": "oats",
+            "weight": "150 g",
+            "price": "165",
+            "deleteprice": ""
+        },
+        {
+            "id": "180",
+            "image": "oats34.avif",
+            "name": "Pintola All Natural Creamy Peanut Butter (Unsweetened)",
+            "category": "oats",
+            "weight": "100 g",
+            "price": "129",
+            "deleteprice": ""
+        },
+        {
+            "id": "181",
+            "image": "oats35.avif",
+            "name": "Pintola 22 g High Protein Oats (Dark Chocolate)",
+            "category": "oats",
+            "weight": "120 g",
+            "price": "179",
+            "deleteprice": "199"
+        },
+        {
+            "id": "182",
+            "image": "oats36.avif",
+            "name": "Pintola High Protein Oats (Dark Chocolate)",
+            "category": "oats",
+            "weight": "425 g",
+            "price": "325",
+            "deleteprice": ""
+        },
+        {
+            "id": "183",
+            "image": "oats37.avif",
+            "name": "Pintola 22 g High Protein Oats (Dark Chocolate)",
+            "category": "oats",
+            "weight": "400 g",
+            "price": "60",
+            "deleteprice": ""
+        },
+        {
+            "id": "184",
+            "image": "oats38.avif",
+            "name": "Pintola High Protein Oats (Dark Chocolate)",
+            "category": "oats",
+            "weight": "400 g (12 pieces)",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "185",
+            "image": "oats39.avif",
+            "name": "Pintola 22 g High Protein Oats (Dark Chocolate)",
+            "category": "oats",
+            "weight": "300 g",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "186",
+            "image": "oats40.avif",
+            "name": "Pintola High Protein Oats (Dark Chocolate)",
+            "category": "oats",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "187",
+            "image": "oats41.avif",
+            "name": "Pintola 22 g High Protein Oats (Dark Chocolate)",
+            "category": "oats",
+            "weight": "180 g + 100 g",
+            "price": "258",
+            "deleteprice": "400"
+        },
+        {
+            "id": "188",
+            "image": "oats42.avif",
+            "name": "Saffola Natural Oats",
+            "category": "oats",
+            "weight": "365 g",
+            "price": "240",
+            "deleteprice": ""
+        },
+        {
+            "id": "189",
+            "image": "Paneer1.avif",
+            "name": "Gowardhan Classic Block Paneer",
+            "category": "paneer",
+            "weight": "200 g",
+            "price": "80",
+            "deleteprice": "90"
+        },
+        {
+            "id": "190",
+            "image": "Paneer2.avif",
+            "name": "Amul Fresh Malai Paneer",
+            "category": "paneer",
+            "weight": "200 g",
+            "price": "88",
+            "deleteprice": ""
+        },
+        {
+            "id": "191",
+            "image": "Paneer3.avif",
+            "name": "Amul Fresh Paneer",
+            "category": "paneer",
+            "weight": "100 g",
+            "price": "45",
+            "deleteprice": ""
+        },
+        {
+            "id": "192",
+            "image": "Paneer4.avif",
+            "name": "Amul Malai Paneer",
+            "category": "paneer",
+            "weight": "200 g",
+            "price": "95",
+            "deleteprice": ""
+        },
+        {
+            "id": "193",
+            "image": "Curd1.avif",
+            "name": "Amul Masti Pouch Curd",
+            "category": "curd",
+            "weight": "400 g",
+            "price": "35",
+            "deleteprice": ""
+        },
+        {
+            "id": "194",
+            "image": "Curd2.avif",
+            "name": "Amul Masti Curd",
+            "category": "curd",
+            "weight": "1 kg",
+            "price": "75",
+            "deleteprice": ""
+        },
+        {
+            "id": "195",
+            "image": "Curd3.avif",
+            "name": "Amul Masti Curd",
+            "category": "curd",
+            "weight": "200 g",
+            "price": "23",
+            "deleteprice": ""
+        },
+        {
+            "id": "196",
+            "image": "Curd4.avif",
+            "name": "epigamia Blueberry Flavoured Greek Yogurt",
+            "category": "curd",
+            "weight": "85 g",
+            "price": "60",
+            "deleteprice": ""
+        },
+        {
+            "id": "197",
+            "image": "Curd5.avif",
+            "name": "epigamia Natural Greek Yogurt",
+            "category": "curd",
+            "weight": "85 g",
+            "price": "60",
+            "deleteprice": ""
+        },
+        {
+            "id": "198",
+            "image": "Curd6.avif",
+            "name": "epigamia Strawberry Flavoured Greek Yogurt",
+            "category": "curd",
+            "weight": "85 g",
+            "price": "60",
+            "deleteprice": ""
+        },
+        {
+            "id": "199",
+            "image": "Curd7.avif",
+            "name": "epigamia Alphonso Mango Flavoured Greek Yogurt",
+            "category": "curd",
+            "weight": "85 g",
+            "price": "60",
+            "deleteprice": ""
+        },
+        {
+            "id": "200",
+            "image": "Curd8.avif",
+            "name": "epigamia Wild Raspberry Flavoured Greek Yogurt",
+            "category": "curd",
+            "weight": "85 g",
+            "price": "60",
+            "deleteprice": ""
+        },
+        {
+            "id": "201",
+            "image": "Curd9.avif",
+            "name": "Amul Mango Shrikhand",
+            "category": "curd",
+            "weight": "500 g",
+            "price": "115",
+            "deleteprice": ""
+        },
+        {
+            "id": "202",
+            "image": "Curd10.avif",
+            "name": "Amul Kesar Shrikhand",
+            "category": "curd",
+            "weight": "500 g",
+            "price": "130",
+            "deleteprice": ""
+        },
+        {
+            "id": "203",
+            "image": "Curd11.avif",
+            "name": "Amul Real Mango Amrakhand",
+            "category": "curd",
+            "weight": "200 g",
+            "price": "52",
+            "deleteprice": ""
+        },
+        {
+            "id": "204",
+            "image": "Curd12.avif",
+            "name": "Amul Elaichi Shrikhand",
+            "category": "curd",
+            "weight": "500 g",
+            "price": "115",
+            "deleteprice": ""
+        },
+        {
+            "id": "205",
+            "image": "Curd13.avif",
+            "name": "Amul Badam Pista Shrikhand",
+            "category": "curd",
+            "weight": "500 g",
+            "price": "130",
+            "deleteprice": ""
+        },
+        {
+            "id": "206",
+            "image": "Curd14.avif",
+            "name": "Amul High Protein Probiotic Curd",
+            "category": "curd",
+            "weight": "400 g",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "207",
+            "image": "Butter1.avif",
+            "name": "Amul Salted Butter",
+            "category": "butter",
+            "weight": "100 g",
+            "price": "60",
+            "deleteprice": ""
+        },
+        {
+            "id": "208",
+            "image": "Butter2.avif",
+            "name": "Amul Salted Butter (200 g)",
+            "category": "butter",
+            "weight": "500 g",
+            "price": "115",
+            "deleteprice": ""
+        },
+        {
+            "id": "209",
+            "image": "Butter3.avif",
+            "name": "Amul Garlic & Herbs Butter",
+            "category": "butter",
+            "weight": "500 g",
+            "price": "130",
+            "deleteprice": ""
+        },
+        {
+            "id": "210",
+            "image": "Butter4.avif",
+            "name": "Amul Lite Milk Fat Spread",
+            "category": "butter",
+            "weight": "200 g",
+            "price": "52",
+            "deleteprice": ""
+        },
+        {
+            "id": "211",
+            "image": "Butter5.avif",
+            "name": "Amul Unsalted Butter",
+            "category": "butter",
+            "weight": "500 g",
+            "price": "115",
+            "deleteprice": ""
+        },
+        {
+            "id": "212",
+            "image": "Butter6.avif",
+            "name": "Nutralite DoodhShakti Probiotic Butter (500 g)",
+            "category": "butter",
+            "weight": "500 g",
+            "price": "130",
+            "deleteprice": ""
+        },
+        {
+            "id": "213",
+            "image": "Butter7.avif",
+            "name": "Pintola Unsweetened Creamy Almond Butter",
+            "category": "butter",
+            "weight": "400 g",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "214",
+            "image": "Butter8.avif",
+            "name": "Amul White Unsalted Butter",
+            "category": "butter",
+            "weight": "100 g",
+            "price": "62",
+            "deleteprice": ""
+        },
+        {
+            "id": "215",
+            "image": "Cheese4.avif",
+            "name": "Amul Pure Milk Cheese Slices",
+            "category": "cheese",
+            "weight": "200g",
+            "price": "144",
+            "deleteprice": "145"
+        },
+        {
+            "id": "216",
+            "image": "Cheese5.avif",
+            "name": "Amul Blend Diced Cheese",
+            "category": "cheese",
+            "weight": "200g",
+            "price": "125",
+            "deleteprice": ""
+        },
+        {
+            "id": "217",
+            "image": "Cheese1.avif",
+            "name": "Britannia Laughing Cow Cheese Slices",
+            "category": "cheese",
+            "weight": "663g",
+            "price": "567",
+            "deleteprice": "630"
+        },
+        {
+            "id": "218",
+            "image": "Cheese2.avif",
+            "name": "Amul Cheese Cubes",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "134",
+            "deleteprice": "135"
+        },
+        {
+            "id": "219",
+            "image": "Cheese3.avif",
+            "name": "Amul Cheese Block",
+            "category": "cheese",
+            "weight": "200g",
+            "price": "130",
+            "deleteprice": ""
+        },
+        {
+            "id": "220",
+            "image": "Cheese4.avif",
+            "name": "Amul Pure Milk Cheese Slices",
+            "category": "cheese",
+            "weight": "200g",
+            "price": "144",
+            "deleteprice": "145"
+        },
+        {
+            "id": "221",
+            "image": "Cheese5.avif",
+            "name": "Amul Blend Diced Cheese",
+            "category": "cheese",
+            "weight": "200g",
+            "price": "125",
+            "deleteprice": ""
+        },
+        {
+            "id": "222",
+            "image": "Cheese6.avif",
+            "name": "Amul Yummy Plain Cheese Spread",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "110",
+            "deleteprice": ""
+        },
+        {
+            "id": "223",
+            "image": "Cheese7.avif",
+            "name": "D'lecta 100% Mozzarella Pizza Cheese Block",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "92",
+            "deleteprice": "165"
+        },
+        {
+            "id": "224",
+            "image": "Cheese8.avif",
+            "name": "D'lecta Processed Cheese Slices",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "116",
+            "deleteprice": "180"
+        },
+        {
+            "id": "225",
+            "image": "Cheese9.avif",
+            "name": "D'lecta Natural Feta Cheese",
+            "category": "cheese",
+            "weight": "100 g",
+            "price": "109",
+            "deleteprice": "120"
+        },
+        {
+            "id": "226",
+            "image": "Cheese10.avif",
+            "name": "Amul Pizza Mozzarella Diced Cheese",
+            "category": "cheese",
+            "weight": "1 kg",
+            "price": "540",
+            "deleteprice": ""
+        },
+        {
+            "id": "227",
+            "image": "Cheese11.avif",
+            "name": "Amul Spicy Garlic Cheese Spread",
+            "category": "cheese",
+            "weight": "220 g",
+            "price": "110",
+            "deleteprice": ""
+        },
+        {
+            "id": "228",
+            "image": "Cheese12.avif",
+            "name": "Go Cheese Slices",
+            "category": "cheese",
+            "weight": "220 g",
+            "price": "150",
+            "deleteprice": "190"
+        },
+        {
+            "id": "229",
+            "image": "Cheese13.avif",
+            "name": "D'lecta Cream Cheese",
+            "category": "cheese",
+            "weight": "150 g",
+            "price": "180",
+            "deleteprice": "200"
+        },
+        {
+            "id": "230",
+            "image": "Cheese14.avif",
+            "name": "Amul Pizza Mozzarella Cheese Block",
+            "category": "cheese",
+            "weight": "220 g",
+            "price": "120",
+            "deleteprice": ""
+        },
+        {
+            "id": "231",
+            "image": "Cheese15.avif",
+            "name": "D'lecta Cheese Cubes (10 cubes)",
+            "category": "cheese",
+            "weight": "220 g",
+            "price": "110",
+            "deleteprice": "175"
+        },
+        {
+            "id": "232",
+            "image": "Cheese16.avif",
+            "name": "Go Squares Processed Cheese Cubes",
+            "category": "cheese",
+            "weight": "220 g",
+            "price": "115",
+            "deleteprice": "155"
+        },
+        {
+            "id": "233",
+            "image": "Cheese17.avif",
+            "name": "Britannia Laughing Cow Cheese Slices 200 g",
+            "category": "cheese",
+            "weight": "220 g",
+            "price": "133",
+            "deleteprice": "160"
+        },
+        {
+            "id": "234",
+            "image": "Cheese18.avif",
+            "name": "D'lecta Processed Cheese Block",
+            "category": "cheese",
+            "weight": "220 g",
+            "price": "110",
+            "deleteprice": "170"
+        },
+        {
+            "id": "235",
+            "image": "Cheese19.avif",
+            "name": "D'lecta Processed Cheese Spread",
+            "category": "cheese",
+            "weight": "150 g",
+            "price": "56",
+            "deleteprice": "99"
+        },
+        {
+            "id": "236",
+            "image": "Cheese20.avif",
+            "name": "D'lecta 100% Cheddar Cheese Slices",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "196",
+            "deleteprice": "200"
+        },
+        {
+            "id": "237",
+            "image": "Cheese21.avif",
+            "name": "D'lecta 100% Cheddar Cheese Block",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "185",
+            "deleteprice": "220"
+        },
+        {
+            "id": "238",
+            "image": "Cheese22.avif",
+            "name": "Go Plain Cheese Spread",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "95",
+            "deleteprice": "115"
+        },
+        {
+            "id": "239",
+            "image": "Cheese23.avif",
+            "name": "Amul A+ Cheese Slices",
+            "category": "cheese",
+            "weight": "20 slices (400 g)",
+            "price": "239",
+            "deleteprice": "429"
+        },
+        {
+            "id": "240",
+            "image": "Cheese24.avif",
+            "name": "Amul Creami Cheese Spread",
+            "category": "cheese",
+            "weight": "180 g",
+            "price": "100",
+            "deleteprice": ""
+        },
+        {
+            "id": "241",
+            "image": "Cheese25.avif",
+            "name": "Amul Punchy Pepper Cheese Spread",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "110",
+            "deleteprice": ""
+        },
+        {
+            "id": "242",
+            "image": "Cheese26.avif",
+            "name": "Britannia Laughing Cow Cheezza Mozzarella",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "136",
+            "deleteprice": "160"
+        },
+        {
+            "id": "243",
+            "image": "Cheese27.avif",
+            "name": "Amul Cheese Slices",
+            "category": "cheese",
+            "weight": "750 g",
+            "price": "440",
+            "deleteprice": ""
+        },
+        {
+            "id": "244",
+            "image": "Cheese28.avif",
+            "name": "Amul Sour Cream",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "80",
+            "deleteprice": ""
+        },
+        {
+            "id": "245",
+            "image": "Cheese29.avif",
+            "name": "D'lecta Parmesan Extra Hard Cheese Block",
+            "category": "cheese",
+            "weight": "100 g",
+            "price": "300",
+            "deleteprice": ""
+        },
+        {
+            "id": "246",
+            "image": "Cheese30.avif",
+            "name": "D'lecta Processed Cheese Slices (400 g)",
+            "category": "cheese",
+            "weight": "400 g",
+            "price": "219",
+            "deleteprice": "350"
+        },
+        {
+            "id": "247",
+            "image": "Cheese31.avif",
+            "name": "Britannia Laughing Cow Cheese Block",
+            "category": "cheese",
+            "weight": "400 g",
+            "price": "257",
+            "deleteprice": "285"
+        },
+        {
+            "id": "248",
+            "image": "Cheese32.avif",
+            "name": "Britannia Cheddar Cheese Slices",
+            "category": "cheese",
+            "weight": "100 g",
+            "price": "85",
+            "deleteprice": "89"
+        },
+        {
+            "id": "249",
+            "image": "Cheese33.avif",
+            "name": "Britannia Laughing Cow Cheese Cubes",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "137",
+            "deleteprice": "165"
+        },
+        {
+            "id": "250",
+            "image": "Cheese34.avif",
+            "name": "Britannia Laughing Cow Cheezza for Pizza Cheese Block",
+            "category": "cheese",
+            "weight": "400 g",
+            "price": "268",
+            "deleteprice": "315"
+        },
+        {
+            "id": "251",
+            "image": "Cheese35.avif",
+            "name": "Amul Pure Milk Cheese",
+            "category": "cheese",
+            "weight": "400 g",
+            "price": "238",
+            "deleteprice": ""
+        },
+        {
+            "id": "252",
+            "image": "Cheese36.avif",
+            "name": "Go Pizza Cheese Block",
+            "category": "cheese",
+            "weight": "200 g",
+            "price": "150",
+            "deleteprice": ""
+        },
+        {
+            "id": "253",
+            "image": "Cheese37.avif",
+            "name": "Go Plain Cheese Slices",
+            "category": "cheese",
+            "weight": "476 g",
+            "price": "469",
+            "deleteprice": ""
+        },
+        {
+            "id": "254",
+            "image": "Cheese38.avif",
+            "name": "Britannia Creamy Cheese Spread Sachets",
+            "category": "cheese",
+            "weight": "10 x 15 g",
+            "price": "40",
+            "deleteprice": ""
+        },
+        {
+            "id": "255",
+            "image": "Cream1.avif",
+            "name": "Amul Fresh Cream",
+            "category": "cream",
+            "weight": "250 ml",
+            "price": "68",
+            "deleteprice": ""
+        },
+        {
+            "id": "256",
+            "image": "Cream2.avif",
+            "name": "Nestle Everyday Dairy Whitener",
+            "category": "cream",
+            "weight": "400 g",
+            "price": "248",
+            "deleteprice": ""
+        },
+        {
+            "id": "257",
+            "image": "Cream3.avif",
+            "name": "D'lecta Dairy Fresh Cream - 25% Fat",
+            "category": "cream",
+            "weight": "200 ml",
+            "price": "56",
+            "deleteprice": "65"
+        },
+        {
+            "id": "258",
+            "image": "Cream4.avif",
+            "name": "Amul Whipping Cream",
+            "category": "cream",
+            "weight": "250 ml",
+            "price": "85",
+            "deleteprice": "65"
+        },
+        {
+            "id": "259",
+            "image": "Condensed1.avif",
+            "name": "Amul Khoa",
+            "category": "condensed",
+            "weight": "250 g",
+            "price": "95",
+            "deleteprice": ""
+        },
+        {
+            "id": "260",
+            "image": "Condensed2.avif",
+            "name": "Amul Mithai Mate Condensed Milk",
+            "category": "condensed",
+            "weight": "200 g",
+            "price": "66",
+            "deleteprice": ""
+        },
+        {
+            "id": "261",
+            "image": "Condensed3.avif",
+            "name": "Nestle Milkmaid Mini Condensed Milk",
+            "category": "condensed",
+            "weight": "210 g",
+            "price": "89",
+            "deleteprice": ""
+        },
+        {
+            "id": "262",
+            "image": "Condensed4.avif",
+            "name": "Amul Mithai Mate Condensed Milk",
+            "category": "condensed",
+            "weight": "400 g",
+            "price": "126",
+            "deleteprice": ""
+        },
+        {
+            "id": "263",
+            "image": "Condensed5.avif",
+            "name": "Gajar Halwa",
+            "category": "condensed",
+            "weight": "500 g + 200 g + 1 l",
+            "price": "204",
+            "deleteprice": "214"
+        },
+        {
+            "id": "264",
+            "image": "Condensed6.avif",
+            "name": "Nestle Milkmaind Sweetened Condensed Milk",
+            "category": "condensed",
+            "weight": "300 g",
+            "price": "141",
+            "deleteprice": "160"
+        },
+        {
+            "id": "265",
+            "image": "Vermicelli1.avif",
+            "name": "MTR Roasted Vermicelli",
+            "category": "vermicelli",
+            "weight": "850 g",
+            "price": "99",
+            "deleteprice": "115"
+        },
+        {
+            "id": "266",
+            "image": "Vermicelli2.avif",
+            "name": "Bambino Roasted Vermicelli",
+            "category": "vermicelli",
+            "weight": "500 g",
+            "price": "70",
+            "deleteprice": ""
+        },
+        {
+            "id": "267",
+            "image": "Vermicelli3.avif",
+            "name": "MTR (Seviyan) Ragular Vermicelli",
+            "category": "vermicelli",
+            "weight": "850 g",
+            "price": "77",
+            "deleteprice": "87"
+        },
+        {
+            "id": "268",
+            "image": "Vermicelli4.avif",
+            "name": "Bambino Roated Roasted Vermicelli",
+            "category": "vermicelli",
+            "weight": "850 g",
+            "price": "117",
+            "deleteprice": ""
+        },
+        {
+            "id": "269",
+            "image": "Vermicelli5.avif",
+            "name": "Bambino Premium Regular Vermicelli",
+            "category": "vermicelli",
+            "weight": "850 g",
+            "price": "87",
+            "deleteprice": ""
+        },
+        {
+            "id": "270",
+            "image": "Vermicelli6.avif",
+            "name": "Bambino Thin & Roasted Roasted Vermiclli",
+            "category": "vermicelli",
+            "weight": "450 g",
+            "price": "100",
+            "deleteprice": ""
+        },
+        {
+            "id": "271",
+            "image": "Vermicelli7.avif",
+            "name": "MTR Rice Regular Vermiclli",
+            "category": "vermicelli",
+            "weight": "400 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "272",
+            "image": "Vermicelli8.avif",
+            "name": "Chheda's Nylon Sev Bhujia",
+            "category": "vermicelli",
+            "weight": "170 g",
+            "price": "55",
+            "deleteprice": ""
+        },
+        {
+            "id": "273",
+            "image": "Vermicelli9.avif",
+            "name": "Garden Nylon Sev Bhujia",
+            "category": "vermicelli",
+            "weight": "140 g",
+            "price": "54",
+            "deleteprice": "60"
+        },
+        {
+            "id": "274",
+            "image": "Vermicelli10.avif",
+            "name": "Real Thai Rice Vermicelli",
+            "category": "vermicelli",
+            "weight": "375 g",
+            "price": "240",
+            "deleteprice": ""
+        },
+        {
+            "id": "275",
+            "image": "Poha1.avif",
+            "name": "Tata Sampann High In Fibre Thick Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "47",
+            "deleteprice": "53"
+        },
+        {
+            "id": "276",
+            "image": "Poha2.avif",
+            "name": "Fortune Thick Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "44",
+            "deleteprice": "60"
+        },
+        {
+            "id": "277",
+            "image": "Poha3.avif",
+            "name": "Whole Farm Premium Fiber Rich Thick Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "31",
+            "deleteprice": "68"
+        },
+        {
+            "id": "278",
+            "image": "Poha4.avif",
+            "name": "Vijiay Indori Thick Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "34",
+            "deleteprice": "50"
+        },
+        {
+            "id": "279",
+            "image": "Poha5.avif",
+            "name": "Tata Sampann Thin Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "62",
+            "deleteprice": "64"
+        },
+        {
+            "id": "280",
+            "image": "Poha6.avif",
+            "name": "Laxmi Thick Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "40",
+            "deleteprice": "50"
+        },
+        {
+            "id": "281",
+            "image": "Poha7.avif",
+            "name": "Whole Farm Premium Wheat Daliya/Lapsi",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "34",
+            "deleteprice": "69"
+        },
+        {
+            "id": "282",
+            "image": "Poha8.avif",
+            "name": "Laxmipati Thick Poha",
+            "category": "poha",
+            "weight": "1 kg",
+            "price": "73",
+            "deleteprice": "85"
+        },
+        {
+            "id": "283",
+            "image": "Poha9.avif",
+            "name": "Whole Farm Premium Big Sabudana/Badadana/Sago",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "51",
+            "deleteprice": "69"
+        },
+        {
+            "id": "284",
+            "image": "Poha10.avif",
+            "name": "Whole Farm Primuim Popcorn Kernels//Makki Dana",
+            "category": "poha",
+            "weight": "200 g",
+            "price": "44",
+            "deleteprice": "49"
+        },
+        {
+            "id": "285",
+            "image": "Poha11.avif",
+            "name": "Vijay Makka Poha Maize Flakes",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "37",
+            "deleteprice": "55"
+        },
+        {
+            "id": "286",
+            "image": "Poha12.avif",
+            "name": "Laxmipati Small Sabudana-Super Quality",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "60",
+            "deleteprice": "80"
+        },
+        {
+            "id": "287",
+            "image": "Poha13.avif",
+            "name": "Whole Farm Grocery Thick Poha/ Avalakki",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "39",
+            "deleteprice": "68"
+        },
+        {
+            "id": "288",
+            "image": "Poha14.avif",
+            "name": "Whole Farm Premium Makki Atta(Maize Flour)",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "41",
+            "deleteprice": "60"
+        },
+        {
+            "id": "289",
+            "image": "Poha15.avif",
+            "name": "Farmely Natural Quinoa",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "150",
+            "deleteprice": "300"
+        },
+        {
+            "id": "290",
+            "image": "Poha16.avif",
+            "name": "Whole Farm Premium Popcorn Kernels/Makki Dana",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "120",
+            "deleteprice": ""
+        },
+        {
+            "id": "291",
+            "image": "Poha17.avif",
+            "name": "Whole Farm Premium Small Sabudana/Motidana/Sago",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "53",
+            "deleteprice": "70"
+        },
+        {
+            "id": "292",
+            "image": "Poha18.avif",
+            "name": "True Elements Quinoa",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "168",
+            "deleteprice": "350"
+        },
+        {
+            "id": "293",
+            "image": "Poha19.avif",
+            "name": "Mango Pemium Small Sabudana",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "45",
+            "deleteprice": "169"
+        },
+        {
+            "id": "294",
+            "image": "Poha20.avif",
+            "name": "Mango Premium Whole Bajra/Pearl Millets",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "44",
+            "deleteprice": "60"
+        },
+        {
+            "id": "295",
+            "image": "Poha21.avif",
+            "name": "Laxmi Maize Thain Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "49",
+            "deleteprice": "50"
+        },
+        {
+            "id": "296",
+            "image": "Poha22.avif",
+            "name": "Milleta & More Bajra Kurmura",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "297",
+            "image": "Poha23.avif",
+            "name": "True Elements Quinoa- Gluten Free & 100% Wholegrain",
+            "category": "poha",
+            "weight": "1 kg",
+            "price": "280",
+            "deleteprice": "650"
+        },
+        {
+            "id": "298",
+            "image": "Poha24.avif",
+            "name": "Whole Farm Premium Rajgara/Amarnath Seeds",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "76",
+            "deleteprice": "110"
+        },
+        {
+            "id": "299",
+            "image": "Poha25.avif",
+            "name": "Whole Farm Premium Jowar /Sorghum Milets",
+            "category": "poha",
+            "weight": "200 g",
+            "price": "18",
+            "deleteprice": "22"
+        },
+        {
+            "id": "300",
+            "image": "Poha26.avif",
+            "name": "Millets & More Ragi Kuemura",
+            "category": "poha",
+            "weight": "200 g",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "301",
+            "image": "Poha27.avif",
+            "name": "Whole Farm Premium Fiber Rich Thick Poha + Premium Rawa",
+            "category": "poha",
+            "weight": "500 g + 200 g",
+            "price": "77",
+            "deleteprice": "133"
+        },
+        {
+            "id": "302",
+            "image": "Poha28.avif",
+            "name": "Whole Farm Premium Whole Ragi/Finger Millet",
+            "category": "poha",
+            "weight": "1 kg",
+            "price": "84",
+            "deleteprice": "85"
+        },
+        {
+            "id": "303",
+            "image": "Poha29.avif",
+            "name": "Mango Premium Wheat Daliya/Lapsi",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "39",
+            "deleteprice": "49"
+        },
+        {
+            "id": "304",
+            "image": "Poha30.avif",
+            "name": "Yoga Bar 100% Wholegrain Quinoa(Gluten-Free)",
+            "category": "poha",
+            "weight": "1 kg",
+            "price": "302",
+            "deleteprice": "499"
+        },
+        {
+            "id": "305",
+            "image": "Poha31.avif",
+            "name": "Laxmipati Rice Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "40",
+            "deleteprice": "45"
+        },
+        {
+            "id": "306",
+            "image": "Poha32.avif",
+            "name": "Whole Farm Farm Premium Fiber Rich Thick POha + Premium Rawa",
+            "category": "poha",
+            "weight": "500 g 500 g",
+            "price": "120",
+            "deleteprice": "203"
+        },
+        {
+            "id": "307",
+            "image": "Poha33.avif",
+            "name": "Milleta & More Diet Millet Bhel",
+            "category": "poha",
+            "weight": "150 g",
+            "price": "74",
+            "deleteprice": "75"
+        },
+        {
+            "id": "308",
+            "image": "Poha34.avif",
+            "name": "Whole Farm Sihor Sharbati",
+            "category": "poha",
+            "weight": "5 kg",
+            "price": "271",
+            "deleteprice": "350"
+        },
+        {
+            "id": "309",
+            "image": "Poha35.avif",
+            "name": "True Elements Whole Bajra/Pearl Millets",
+            "category": "poha",
+            "weight": "1 kg",
+            "price": "212",
+            "deleteprice": "225"
+        },
+        {
+            "id": "310",
+            "image": "Poha36.avif",
+            "name": "Mango Premium Whole Jowar/Sorghum Millets",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "41",
+            "deleteprice": "59"
+        },
+        {
+            "id": "311",
+            "image": "Poha37.avif",
+            "name": "Whole Farm Premium Fiber Rich Thick Poha + Whole Farm..",
+            "category": "poha",
+            "weight": "500 g + 500 g",
+            "price": "118",
+            "deleteprice": "228"
+        },
+        {
+            "id": "312",
+            "image": "Poha38.avif",
+            "name": "Whole Farm Premium Kangi/Foxtail Millet",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "79",
+            "deleteprice": "120"
+        },
+        {
+            "id": "313",
+            "image": "Poha39.avif",
+            "name": "Mango Premium Sharbati Tukdi Wheat",
+            "category": "poha",
+            "weight": "5 kg",
+            "price": "248",
+            "deleteprice": "399"
+        },
+        {
+            "id": "314",
+            "image": "Poha40.avif",
+            "name": "Vijay Premium Quality Poha",
+            "category": "poha",
+            "weight": "1 kg",
+            "price": "73",
+            "deleteprice": "100"
+        },
+        {
+            "id": "315",
+            "image": "Poha41.avif",
+            "name": "Whole Farm Premium Kodra/Kodo Millet/Araka",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "74",
+            "deleteprice": "82"
+        },
+        {
+            "id": "316",
+            "image": "Poha42.avif",
+            "name": "Whole Farm Premium Barley(Without Skin)",
+            "category": "poha",
+            "weight": "200 g",
+            "price": "22",
+            "deleteprice": "30"
+        },
+        {
+            "id": "317",
+            "image": "Poha43.avif",
+            "name": "Whole Farm Premium Samak/Barnyard Millet/Oodhalu",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "67",
+            "deleteprice": "120"
+        },
+        {
+            "id": "318",
+            "image": "Poha44.avif",
+            "name": "True Elements Whole Jowar/Sorghum Millets",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "101",
+            "deleteprice": "130"
+        },
+        {
+            "id": "319",
+            "image": "Poha45.avif",
+            "name": "Whole Farm Premium Kutki/Little",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "81",
+            "deleteprice": "95"
+        },
+        {
+            "id": "320",
+            "image": "Poha46.avif",
+            "name": "Mango Premium WHole Ragi/Finger Millet",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "34",
+            "deleteprice": "59"
+        },
+        {
+            "id": "321",
+            "image": "Poha47.avif",
+            "name": "Mango Premium Whole Barley",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "21",
+            "deleteprice": "59"
+        },
+        {
+            "id": "322",
+            "image": "Poha48.avif",
+            "name": "Whole Farm Premium Whole Wheat Grains",
+            "category": "poha",
+            "weight": "1 kg",
+            "price": "59",
+            "deleteprice": "75"
+        },
+        {
+            "id": "323",
+            "image": "Poha49.avif",
+            "name": "Whole Farm Premium Chena/Proso Millet/Baragu",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "75",
+            "deleteprice": ""
+        },
+        {
+            "id": "324",
+            "image": "Poha50.avif",
+            "name": "Millets & More Cheese Millet Bhel",
+            "category": "poha",
+            "weight": "150 g",
+            "price": "74",
+            "deleteprice": "75"
+        },
+        {
+            "id": "325",
+            "image": "Poha51.avif",
+            "name": "Organic Tattva Organic White Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "72",
+            "deleteprice": "89"
+        },
+        {
+            "id": "326",
+            "image": "Poha52.avif",
+            "name": "True Story Natural Organic White Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "60",
+            "deleteprice": "75"
+        },
+        {
+            "id": "327",
+            "image": "Poha53.avif",
+            "name": "True Story Organic Samak/Barnyard Millet",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "95",
+            "deleteprice": "120"
+        },
+        {
+            "id": "328",
+            "image": "Poha54.avif",
+            "name": "True Story Organic Foxtail Millet",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "80",
+            "deleteprice": "120"
+        },
+        {
+            "id": "329",
+            "image": "Poha55.avif",
+            "name": "Organic Tattva Wheat Organic Daliya",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "56",
+            "deleteprice": "70"
+        },
+        {
+            "id": "330",
+            "image": "Poha56.avif",
+            "name": "True Story Organic Little Millet",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "95",
+            "deleteprice": "120"
+        },
+        {
+            "id": "331",
+            "image": "Poha57.avif",
+            "name": "True Story Organic Wheat Daliya",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "54",
+            "deleteprice": "55"
+        },
+        {
+            "id": "332",
+            "image": "Poha58.avif",
+            "name": "True Story Organic Kodo Millet",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "95",
+            "deleteprice": "120"
+        },
+        {
+            "id": "333",
+            "image": "Poha59.avif",
+            "name": "Laxmipati Moreya Samak/Barnyard Millet",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "68",
+            "deleteprice": "90"
+        },
+        {
+            "id": "334",
+            "image": "Poha60.avif",
+            "name": "Whole Farm Premium Roasted Daliya",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "40",
+            "deleteprice": "60"
+        },
+        {
+            "id": "335",
+            "image": "Poha61.avif",
+            "name": "Whole Farm Premium Thin Poha",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "44",
+            "deleteprice": "75"
+        },
+        {
+            "id": "336",
+            "image": "Poha62.avif",
+            "name": "Mango Premium Samak/Barnyard Millet/Moraiya",
+            "category": "poha",
+            "weight": "500 g",
+            "price": "69",
+            "deleteprice": "99"
+        },
+        {
+            "id": "337",
+            "image": "Peanut1.avif",
+            "name": "MyFitness Chocolate Crunchy Peanut Butter (227 g)",
+            "category": "peanut",
+            "weight": "227 g",
+            "price": "165",
+            "deleteprice": "179"
+        },
+        {
+            "id": "338",
+            "image": "Peanut2.avif",
+            "name": "Pintola All Natural Crunchy Peanut Butter (Unsweetened)",
+            "category": "peanut",
+            "weight": "350 g",
+            "price": "156",
+            "deleteprice": "175"
+        },
+        {
+            "id": "339",
+            "image": "Peanut3.avif",
+            "name": "MyFitness Chocolate Smooth Peanut Butter (227 g)",
+            "category": "peanut",
+            "weight": "227 g",
+            "price": "165",
+            "deleteprice": "179"
+        },
+        {
+            "id": "340",
+            "image": "Peanut4.avif",
+            "name": "MyFitness Chocolate Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "510 g",
+            "price": "294",
+            "deleteprice": "339"
+        },
+        {
+            "id": "341",
+            "image": "Peanut5.avif",
+            "name": "MyFitness Chocolate Smooth Peanut Butter",
+            "category": "peanut",
+            "weight": "510 g",
+            "price": "294",
+            "deleteprice": "339"
+        },
+        {
+            "id": "342",
+            "image": "Peanut6.avif",
+            "name": "Sundrop Creamy Peanut Butter",
+            "category": "peanut",
+            "weight": "462 g",
+            "price": "145",
+            "deleteprice": "150"
+        },
+        {
+            "id": "343",
+            "image": "Peanut7.avif",
+            "name": "MyFitness Chocolate Crispy Peanut Butter",
+            "category": "peanut",
+            "weight": "227 g",
+            "price": "167",
+            "deleteprice": "179"
+        },
+        {
+            "id": "344",
+            "image": "Peanut8.avif",
+            "name": "Kissan Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "350 g",
+            "price": "149",
+            "deleteprice": "175"
+        },
+        {
+            "id": "345",
+            "image": "Peanut9.avif",
+            "name": "MyFitness Chocolate Crispy Peanut Butter",
+            "category": "peanut",
+            "weight": "510 g",
+            "price": "294",
+            "deleteprice": "339"
+        },
+        {
+            "id": "346",
+            "image": "Peanut10.avif",
+            "name": "Pintola All Natural Crunchy Peanut Butter (Unsweetened)",
+            "category": "peanut",
+            "weight": "1 kg",
+            "price": "350",
+            "deleteprice": "449"
+        },
+        {
+            "id": "347",
+            "image": "Peanut11.avif",
+            "name": "Pintola All Natural Creamy Peanut Butter (Unsweetened)",
+            "category": "peanut",
+            "weight": "1 kg",
+            "price": "389",
+            "deleteprice": "449"
+        },
+        {
+            "id": "348",
+            "image": "Peanut12.avif",
+            "name": "Pintola Dark Chocolate Creamy Peanut Butter (High Protein)",
+            "category": "peanut",
+            "weight": "510 g",
+            "price": "342",
+            "deleteprice": "339"
+        },
+        {
+            "id": "349",
+            "image": "Peanut13.avif",
+            "name": "MyFitness Almond Crunch Peanut Butter - Chocolate Flavour",
+            "category": "peanut",
+            "weight": "510 g",
+            "price": "369",
+            "deleteprice": "419"
+        },
+        {
+            "id": "350",
+            "image": "Peanut14.avif",
+            "name": "Saffola Crunchy Peanut Butter With Jaggery",
+            "category": "peanut",
+            "weight": "350 g",
+            "price": "129",
+            "deleteprice": "149"
+        },
+        {
+            "id": "351",
+            "image": "Peanut15.avif",
+            "name": "MyFitness Natural Unsweetened Peanut Butter Crunchy",
+            "category": "peanut",
+            "weight": "510 g",
+            "price": "288",
+            "deleteprice": "320"
+        },
+        {
+            "id": "352",
+            "image": "Peanut16.avif",
+            "name": "Sundrop Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "462 g",
+            "price": "145",
+            "deleteprice": "150"
+        },
+        {
+            "id": "353",
+            "image": "Peanut17.avif",
+            "name": "Dr. Oetker FunFoods Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "375 g",
+            "price": "139",
+            "deleteprice": ""
+        },
+        {
+            "id": "354",
+            "image": "Peanut18.avif",
+            "name": "Saffola Creamy Peanut Butter With Jaggery",
+            "category": "peanut",
+            "weight": "350 g",
+            "price": "129",
+            "deleteprice": "149"
+        },
+        {
+            "id": "355",
+            "image": "Peanut19.avif",
+            "name": "MyFitness Olympia Smooth Creamy Peanut Butter",
+            "category": "peanut",
+            "weight": "510 g",
+            "price": "350",
+            "deleteprice": "399"
+        },
+        {
+            "id": "356",
+            "image": "Peanut20.avif",
+            "name": "Kissan Hazelnut Choco Peanut Butter",
+            "category": "peanut",
+            "weight": "350 g",
+            "price": "192",
+            "deleteprice": "239"
+        },
+        {
+            "id": "357",
+            "image": "Peanut21.avif",
+            "name": "Dr. Oetker Fun Foods Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "750 g",
+            "price": "179",
+            "deleteprice": "199"
+        },
+        {
+            "id": "358",
+            "image": "Peanut22.avif",
+            "name": "Dr. Oetker FunFoods Creamy Peanut Butter",
+            "category": "peanut",
+            "weight": "375 g",
+            "price": "139",
+            "deleteprice": ""
+        },
+        {
+            "id": "359",
+            "image": "Peanut23.avif",
+            "name": "Sundrop Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "924 g",
+            "price": "240",
+            "deleteprice": "260"
+        },
+        {
+            "id": "360",
+            "image": "Peanut24.avif",
+            "name": "Pintola Dark Chocolate Creamy Peanut Butter",
+            "category": "peanut",
+            "weight": "1 kg",
+            "price": "399",
+            "deleteprice": "499"
+        },
+        {
+            "id": "361",
+            "image": "Peanut25.avif",
+            "name": "Pintola High Protein Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "510 g",
+            "price": "326",
+            "deleteprice": "375"
+        },
+        {
+            "id": "362",
+            "image": "Peanut26.avif",
+            "name": "Sundrop Creamy Peanut Butter (924 g)",
+            "category": "peanut",
+            "weight": "924 g",
+            "price": "265",
+            "deleteprice": "295"
+        },
+        {
+            "id": "363",
+            "image": "Peanut27.avif",
+            "name": "Dr. Oetker Fun Foods Creamy Peanut Butter",
+            "category": "peanut",
+            "weight": "750 g",
+            "price": "179",
+            "deleteprice": "199"
+        },
+        {
+            "id": "364",
+            "image": "Peanut28.avif",
+            "name": "Pintola Unsweetened Creamy Almond Butter",
+            "category": "peanut",
+            "weight": "200 g",
+            "price": "385",
+            "deleteprice": "425"
+        },
+        {
+            "id": "365",
+            "image": "Peanut29.avif",
+            "name": "MyFitness Chocolate Crispy Peanut Butter + Chocolate Crunchy Peanut",
+            "category": "peanut",
+            "weight": "227 g + 510 g",
+            "price": "415",
+            "deleteprice": "518"
+        },
+        {
+            "id": "366",
+            "image": "Peanut30.avif",
+            "name": "Pintola Crunchy Peanut Butter + Pintola Wholegrain Brown Rice Cake Combo",
+            "category": "peanut",
+            "weight": "350 g + 125 g",
+            "price": "275",
+            "deleteprice": "335"
+        },
+        {
+            "id": "367",
+            "image": "Peanut31.avif",
+            "name": "MyFitness Chocolate Crispy Peanut Butter + Chocolate Crunchy Peanut",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "525",
+            "deleteprice": "678"
+        },
+        {
+            "id": "368",
+            "image": "Peanut32.avif",
+            "name": "Pintola Dark Chocolate Creamy Peanut Butter (High Protein) + Pintola",
+            "category": "peanut",
+            "weight": "510 g + 125 g",
+            "price": "464",
+            "deleteprice": "559"
+        },
+        {
+            "id": "369",
+            "image": "Peanut33.avif",
+            "name": "MyFitness Chocolate Smooth Peanut Butter + Chocolate Crunchy Peanut",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "525",
+            "deleteprice": "678"
+        },
+        {
+            "id": "370",
+            "image": "Peanut34.avif",
+            "name": "MyFitness Chocolate Smooth Peanut Butter + Chocolate Crispy Peanut Butter",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "511",
+            "deleteprice": "678"
+        },
+        {
+            "id": "371",
+            "image": "Peanut35.avif",
+            "name": "Pintola High Protein Crunchy Peanut Butter + Wholegrain Brown Rice Cake",
+            "category": "peanut",
+            "weight": "510 g + 125 g",
+            "price": "444",
+            "deleteprice": "535"
+        },
+        {
+            "id": "372",
+            "image": "Peanut36.avif",
+            "name": "MyFitness Chocolate Crunchy Peanut Butter + Natural Unsweetened Peanut",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "515",
+            "deleteprice": "659"
+        },
+        {
+            "id": "373",
+            "image": "Peanut37.avif",
+            "name": "MyFitness Chocolate Crunchy Peanut Butter + Chocolate Crunchy Peanut",
+            "category": "peanut",
+            "weight": "510 g + 227 g",
+            "price": "417",
+            "deleteprice": "518"
+        },
+        {
+            "id": "374",
+            "image": "Peanut38.avif",
+            "name": "MyFitness Chocolate Creamy Peanut Butter With Almond Crunch + Chocolate",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "572",
+            "deleteprice": "758"
+        },
+        {
+            "id": "375",
+            "image": "Peanut39.avif",
+            "name": "Pintola Dark Chocolate Creamy Peanut Butter + Pintola Wholegrain Brown Rice",
+            "category": "peanut",
+            "weight": "1 kg + 125 g",
+            "price": "535",
+            "deleteprice": "659"
+        },
+        {
+            "id": "376",
+            "image": "Peanut40.avif",
+            "name": "MyFitness Olympia Smooth Creamy Peanut Butter + Chocolate Crunchy",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "554",
+            "deleteprice": "738"
+        },
+        {
+            "id": "377",
+            "image": "Peanut41.avif",
+            "name": "Pintola All Natural Crunchy Peanut Butter (Unsweetened) + Pintola Wholegrain",
+            "category": "peanut",
+            "weight": "1 kg + 125 g",
+            "price": "486",
+            "deleteprice": "609"
+        },
+        {
+            "id": "378",
+            "image": "Peanut42.avif",
+            "name": "MyFitness Chocolate Crispy Peanut Butter + Natural Unsweetened Peanut",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "515",
+            "deleteprice": "659"
+        },
+        {
+            "id": "379",
+            "image": "Peanut43.avif",
+            "name": "MyFitness Chocolate Creamy Peanut Butter With Almond Crunch + Natural",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "562",
+            "deleteprice": "739"
+        },
+        {
+            "id": "380",
+            "image": "Peanut44.avif",
+            "name": "MyFitness Chocolate Crunchy Peanut Butter (227 g) + Chocolate Smooth",
+            "category": "peanut",
+            "weight": "227 g + 227 g",
+            "price": "315",
+            "deleteprice": "358"
+        },
+        {
+            "id": "381",
+            "image": "Peanut45.avif",
+            "name": "Pintola High Protein Crunchy Peanut Butter + Dark Chocolate Creamy Peanut",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "650",
+            "deleteprice": "774"
+        },
+        {
+            "id": "382",
+            "image": "Peanut46.avif",
+            "name": "MyFitness Chocolate Smooth Peanut Butter + Natural Unsweetened Peanut",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "515",
+            "deleteprice": "659"
+        },
+        {
+            "id": "383",
+            "image": "Peanut47.avif",
+            "name": "MyFitness Chocolate Creamy Peanut Butter With Almond Crunch + Chocolate",
+            "category": "peanut",
+            "weight": "510 g + 510 g",
+            "price": "572",
+            "deleteprice": "758"
+        },
+        {
+            "id": "384",
+            "image": "Peanut48.avif",
+            "name": "Pintola All Natural Creamy Peanut Butter (Unsweetened) + Pintola Wholegrain",
+            "category": "peanut",
+            "weight": "1 kg + 125 g",
+            "price": "512",
+            "deleteprice": "609"
+        },
+        {
+            "id": "385",
+            "image": "Peanut49.avif",
+            "name": "MyFitness Chocolate Crunchy Peanut Butter (227 g) + Natural Unsweetened",
+            "category": "peanut",
+            "weight": "227 g + 510 g",
+            "price": "405",
+            "deleteprice": "499"
+        },
+        {
+            "id": "386",
+            "image": "Peanut50.avif",
+            "name": "Pintola All Natural Creamy Peanut Butter (Unsweetened) + Pintola All Natural Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "1 kg + 350 g",
+            "price": "524",
+            "deleteprice": "624"
+        },
+        {
+            "id": "387",
+            "image": "Peanut51.avif",
+            "name": "Pintola Dark Chocolate Creamy Peanut Butter + Pintola All Natural Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "350 g + 1 kg",
+            "price": "549",
+            "deleteprice": "674"
+        },
+        {
+            "id": "388",
+            "image": "Peanut52.avif",
+            "name": "Pintola All Natural Creamy Peanut Butter (Unsweetened) + 22 g High Protein Oats",
+            "category": "peanut",
+            "weight": "1 kg + 400 g",
+            "price": "654",
+            "deleteprice": "798"
+        },
+        {
+            "id": "389",
+            "image": "Peanut53.avif",
+            "name": "Pintola 22 g High Protein Oats (Dark Chocolate) + All Natural Crunchy Peanut",
+            "category": "peanut",
+            "weight": "400 g + 350 g",
+            "price": "419",
+            "deleteprice": "524"
+        },
+        {
+            "id": "390",
+            "image": "Peanut54.avif",
+            "name": "Pintola Dark Chocolate Creamy Peanut Butter (High Protein) + Pintola All Natura",
+            "category": "peanut",
+            "weight": "510 g + 350 g",
+            "price": "476",
+            "deleteprice": "574"
+        },
+        {
+            "id": "391",
+            "image": "Peanut55.avif",
+            "name": "Pintola High Protein Oats (Dark Chocolate) + Dark Chocolate Creamy",
+            "category": "peanut",
+            "weight": "1 kg + 510 g",
+            "price": "832",
+            "deleteprice": "1098"
+        },
+        {
+            "id": "392",
+            "image": "Peanut56.avif",
+            "name": "Pintola High Protein Crunchy Peanut Butter + All Natural Crunchy Peanut",
+            "category": "peanut",
+            "weight": "510 kg + 350 g",
+            "price": "462",
+            "deleteprice": "550"
+        },
+        {
+            "id": "393",
+            "image": "Peanut57.avif",
+            "name": "Pintola 22 g High Protein Oats (Dark Chocolate) + Dark Chocolate Creamy",
+            "category": "peanut",
+            "weight": "400 g + 510 g",
+            "price": "606",
+            "deleteprice": "748"
+        },
+        {
+            "id": "394",
+            "image": "Peanut58.avif",
+            "name": "Pintola High Protein Oats (Dark Chocolate) + All Natural Crunchy Peanut",
+            "category": "peanut",
+            "weight": "1 kg + 350 g",
+            "price": "648",
+            "deleteprice": "874"
+        },
+        {
+            "id": "395",
+            "image": "Peanut59.avif",
+            "name": "Pintola 22 g High Protein Oats (Dark Chocolate) + High Protein Crunchy",
+            "category": "peanut",
+            "weight": "400 g + 510 g",
+            "price": "586",
+            "deleteprice": "724"
+        },
+        {
+            "id": "396",
+            "image": "Peanut60.avif",
+            "name": "Pintola High Protein Oats (Dark Chocolate) + All Natural Crunchy Peanu",
+            "category": "peanut",
+            "weight": "1 kg + 1 kg",
+            "price": "839",
+            "deleteprice": "1148"
+        },
+        {
+            "id": "397",
+            "image": "Peanut61.avif",
+            "name": "Pintola Dark Chocolate Creamy Peanut Butter (High Protein) + Pintola All Natural",
+            "category": "peanut",
+            "weight": "510 g + 1 kg",
+            "price": "684",
+            "deleteprice": "848"
+        },
+        {
+            "id": "398",
+            "image": "Peanut62.avif",
+            "name": "Pintola Dark Chocolate Creamy Peanut Butter (High Protein) + Pintola All Natural Creamy Peanut Butter (Unsweetened) Combo",
+            "category": "peanut",
+            "weight": "510 g + 1 kg",
+            "price": "712",
+            "deleteprice": "848"
+        },
+        {
+            "id": "399",
+            "image": "Peanut63.avif",
+            "name": "Pintola 22 g High Protein Oats (Dark Chocolate) + All Natural Crunchy Peanut",
+            "category": "peanut",
+            "weight": "400 g + 1 kg",
+            "price": "633",
+            "deleteprice": "798"
+        },
+        {
+            "id": "400",
+            "image": "Peanut64.avif",
+            "name": "Sundrop Peanut Butter with Jelly",
+            "category": "peanut",
+            "weight": "340 g",
+            "price": "99",
+            "deleteprice": "150"
+        },
+        {
+            "id": "401",
+            "image": "Peanut65.avif",
+            "name": "Pintola Dark Chocolate Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "350 g",
+            "price": "199",
+            "deleteprice": ""
+        },
+        {
+            "id": "402",
+            "image": "Peanut66.avif",
+            "name": "Skippy Creamy Peanut Butter",
+            "category": "peanut",
+            "weight": "462 g",
+            "price": "672",
+            "deleteprice": ""
+        },
+        {
+            "id": "403",
+            "image": "Peanut60.avif",
+            "name": "Skippy Super Chunk Crunchy Peanut Butter",
+            "category": "peanut",
+            "weight": "462 g",
+            "price": "672",
+            "deleteprice": ""
+        },
+        {
+            "id": "404",
+            "image": "Energy4.avif",
+            "name": "The Whole Truth 20 g Protein Bar - Double Cocoa",
+            "category": "energy",
+            "weight": "67 g",
+            "price": "132",
+            "deleteprice": "150"
+        },
+        {
+            "id": "405",
+            "image": "Energy5.avif",
+            "name": "RiteBite Max Protein Daily Choco Berry Protein Bar - Pack of 2",
+            "category": "energy",
+            "weight": "2 x 50 g",
+            "price": "140",
+            "deleteprice": "150"
+        },
+        {
+            "id": "406",
+            "image": "Energy1.avif",
+            "name": "Yoga Bar Chocolate Chunk Nut Multigrain Protein Bar (38 g)",
+            "category": "energy",
+            "weight": "38 g",
+            "price": "38",
+            "deleteprice": "50"
+        },
+        {
+            "id": "408",
+            "image": "Energy3.avif",
+            "name": "RiteBite Max Protein Daily Choco Almond Protein Bar - Pack of 2",
+            "category": "energy",
+            "weight": "2 x 50 g",
+            "price": "105",
+            "deleteprice": "150"
+        },
+        {
+            "id": "409",
+            "image": "Energy4.avif",
+            "name": "The Whole Truth 20 g Protein Bar - Double Cocoa",
+            "category": "energy",
+            "weight": "67 g",
+            "price": "132",
+            "deleteprice": "150"
+        },
+        {
+            "id": "410",
+            "image": "Energy5.avif",
+            "name": "RiteBite Max Protein Daily Choco Berry Protein Bar - Pack of 2",
+            "category": "energy",
+            "weight": "2 x 50 g",
+            "price": "140",
+            "deleteprice": "150"
+        },
+        {
+            "id": "411",
+            "image": "Energy6.avif",
+            "name": "The Whole Truth Double Cocoa Protein Bar - Pack of 2",
+            "category": "energy",
+            "weight": "2 x 52 g",
+            "price": "176",
+            "deleteprice": "200"
+        },
+        {
+            "id": "412",
+            "image": "Energy7.avif",
+            "name": "Yoga Bar 10 g Dark Chocolate & Cranberry Protein Bar",
+            "category": "energy",
+            "weight": "50 g",
+            "price": "58",
+            "deleteprice": "75"
+        },
+        {
+            "id": "413",
+            "image": "Energy8.avif",
+            "name": "The Whole Truth Coconut Cocoa Protein Bar",
+            "category": "energy",
+            "weight": "52 g",
+            "price": "90",
+            "deleteprice": "100"
+        },
+        {
+            "id": "414",
+            "image": "Energy9.avif",
+            "name": "The Whole Truth Cranberry Protein Bar - Pack of 2",
+            "category": "energy",
+            "weight": "2 x 52 g",
+            "price": "176",
+            "deleteprice": "200"
+        },
+        {
+            "id": "415",
+            "image": "Energy10.avif",
+            "name": "Yoga Bar Blueberry Pie Breakfast Protein Bar",
+            "category": "energy",
+            "weight": "50 g",
+            "price": "45",
+            "deleteprice": "60"
+        },
+        {
+            "id": "416",
+            "image": "Energy11.avif",
+            "name": "Yoga Bar Nuts & Seeds Multigrain Energy Protein Bar",
+            "category": "energy",
+            "weight": "38 g",
+            "price": "38",
+            "deleteprice": "50"
+        },
+        {
+            "id": "417",
+            "image": "Energy12.avif",
+            "name": "The Whole Truth Almond Choco Fudge Energy Bar - Pack of 2",
+            "category": "energy",
+            "weight": "2 x 40 g",
+            "price": "132",
+            "deleteprice": "150"
+        },
+        {
+            "id": "418",
+            "image": "Energy13.avif",
+            "name": "RiteBite Max Protein Daily Choco Classic Nutrition Bar - Pack of 2",
+            "category": "energy",
+            "weight": "2 x 50 g",
+            "price": "130",
+            "deleteprice": "140"
+        },
+        {
+            "id": "419",
+            "image": "Energy14.avif",
+            "name": "The Whole Truth 20 g Protein Bar - Peanut Cocoa",
+            "category": "energy",
+            "weight": "67 g",
+            "price": "132",
+            "deleteprice": "150"
+        },
+        {
+            "id": "420",
+            "image": "Energy15.avif",
+            "name": "RiteBite Max Protein Daily Choco Almond Protein Bar ",
+            "category": "energy",
+            "weight": "50 g + 50 g",
+            "price": "141",
+            "deleteprice": "150"
+        },
+        {
+            "id": "451",
+            "image": "Energy2.avif",
+            "name": "RiteBite Max Protein Daily Protein Bar (Assorted)",
+            "category": "energy",
+            "weight": "1 pack (6 x 50 g)",
+            "price": "₹370",
+            "deleteprice": "₹440"
+        },
+        {
+            "id": "422",
+            "image": "Energy16.avif",
+            "name": "RiteBite Max Protein Active Choco Slim Nutrition Bar",
+            "category": "energy",
+            "weight": "67 g",
+            "price": "117",
+            "deleteprice": "125"
+        },
+        {
+            "id": "423",
+            "image": "Energy17.avif",
+            "name": "RiteBite Choco Delite 4g Protein Bar",
+            "category": "energy",
+            "weight": "40 g",
+            "price": "43",
+            "deleteprice": "45"
+        },
+        {
+            "id": "424",
+            "image": "Energy18.avif",
+            "name": "RiteBite Max Protein Bar (Peanut Butter)",
+            "category": "energy",
+            "weight": "70 g",
+            "price": "₹119",
+            "deleteprice": "₹130"
+        },
+        {
+            "id": "425",
+            "image": "Energy19.avif",
+            "name": "The Whole Truth Peanut Cocoa Protein Bar",
+            "category": "energy",
+            "weight": "52 g",
+            "price": "90",
+            "deleteprice": "100"
+        },
+        {
+            "id": "426",
+            "image": "Energy20.avif",
+            "name": "The Whole Truth 20 g Protein Bar - Coffee Cocoa",
+            "category": "energy",
+            "weight": "67 g",
+            "price": "132",
+            "deleteprice": "150"
+        },
+        {
+            "id": "427",
+            "image": "Energy21.avif",
+            "name": "RiteBite Max Protein Daily Choco Almond Protein Bar + RiteBite Max Protein Choco Chips Cookies Combo",
+            "category": "energy",
+            "weight": "55 g + 50 g",
+            "price": "₹117",
+            "deleteprice": "₹125"
+        },
+        {
+            "id": "428",
+            "image": "Energy22.avif",
+            "name": "Yoga Bar Multigrain Energy Bar (Assorted)",
+            "category": "energy",
+            "weight": "6x38 gm",
+            "price": "228",
+            "deleteprice": "299"
+        },
+        {
+            "id": "429",
+            "image": "Energy23.avif",
+            "name": "RiteBite Max Protein Active Choco Fudge Nutrition Bar",
+            "category": "energy",
+            "weight": "75 g",
+            "price": "117",
+            "deleteprice": "125"
+        },
+        {
+            "id": "430",
+            "image": "Energy24.avif",
+            "name": "Yoga Bar 20 g Protein Chocolate Brownie Protein Bar",
+            "category": "energy",
+            "weight": "70 g",
+            "price": "₹102",
+            "deleteprice": "₹140"
+        },
+        {
+            "id": "431",
+            "image": "Energy25.avif",
+            "name": "RiteBite Peanut Butter 4g Protein Bar",
+            "category": "energy",
+            "weight": "40 g",
+            "price": "43",
+            "deleteprice": "45"
+        },
+        {
+            "id": "432",
+            "image": "Energy26.avif",
+            "name": "The Whole Truth Peanut Butter Protein Bar",
+            "category": "energy",
+            "weight": "52 g",
+            "price": "₹90",
+            "deleteprice": "₹100"
+        },
+        {
+            "id": "433",
+            "image": "Energy27.avif",
+            "name": "Yoga Bar 20g Protein Almond Fudge Protein Bar (No Added Sugar)",
+            "category": "energy",
+            "weight": "70 g",
+            "price": "103",
+            "deleteprice": "140"
+        },
+        {
+            "id": "434",
+            "image": "Energy28.avif",
+            "name": "Yoga Bar 20 g Protein Chocolate Brownie Protein Bar",
+            "category": "energy",
+            "weight": "70 g + 70 g",
+            "price": "203",
+            "deleteprice": "280"
+        },
+        {
+            "id": "435",
+            "image": "Energy29.avif",
+            "name": "MuscleBlaze Choco Almond Protein Bar",
+            "category": "energy",
+            "weight": "70 g",
+            "price": "125",
+            "deleteprice": "130"
+        },
+        {
+            "id": "436",
+            "image": "Energy30.avif",
+            "name": "Yoga Bar 10 g Coffee Rush Protein Bar",
+            "category": "energy",
+            "weight": "50 g",
+            "price": "58",
+            "deleteprice": "75"
+        },
+        {
+            "id": "437",
+            "image": "Energy31.avif",
+            "name": "RiteBite Choco Delite Breakfast Bar + Max Protein Bar (Peanut Butter)",
+            "category": "energy",
+            "weight": "40 g + 70 g + 50 g",
+            "price": "226",
+            "deleteprice": "245"
+        },
+        {
+            "id": "438",
+            "image": "Energy32.avif",
+            "name": "RiteBite Yogurt Berry Nutrition Bar",
+            "category": "energy",
+            "weight": "35 g",
+            "price": "43",
+            "deleteprice": "45"
+        },
+        {
+            "id": "439",
+            "image": "Energy33.avif",
+            "name": "RiteBite Yogurt Berry Nutrition Bar",
+            "category": "energy",
+            "weight": "35 g + 50 g + 40 g",
+            "price": "155",
+            "deleteprice": "165"
+        },
+        {
+            "id": "440",
+            "image": "Energy34.avif",
+            "name": "RiteBite Max Protein Active Choco Slim Nutrition Bar ",
+            "category": "energy",
+            "weight": "67 g + 75 g + 70 g",
+            "price": "350",
+            "deleteprice": "380"
+        },
+        {
+            "id": "441",
+            "image": "Energy35.avif",
+            "name": "RiteBite Choco Delite Breakfast Bar",
+            "category": "energy",
+            "weight": "40 g + 40 g + 60 g",
+            "price": "127",
+            "deleteprice": "135"
+        },
+        {
+            "id": "442",
+            "image": "Energy36.avif",
+            "name": "RiteBite Choco Delite Breakfast Bar ",
+            "category": "energy",
+            "weight": "40 g + 70 g + 50 g",
+            "price": "226",
+            "deleteprice": "245"
+        },
+        {
+            "id": "443",
+            "image": "Energy37.avif",
+            "name": "Nature Valley Crunchy Oats & Honey Granola Bar",
+            "category": "energy",
+            "weight": "210 g (5 x 42 g)",
+            "price": "231",
+            "deleteprice": "400"
+        },
+        {
+            "id": "444",
+            "image": "Energy38.avif",
+            "name": "RiteBite Max Protein Daily Choco Almond Protein Bar",
+            "category": "energy",
+            "weight": "60 g + 50 g",
+            "price": "113",
+            "deleteprice": "120"
+        },
+        {
+            "id": "445",
+            "image": "Energy39.avif",
+            "name": "RiteBite Max Protein Active Choco Fudge Nutrition Bar + Max Protein Cheese & Jalapeno Chips Combo",
+            "category": "energy",
+            "weight": "75 g + 60 g",
+            "price": "159",
+            "deleteprice": "170"
+        },
+        {
+            "id": "446",
+            "image": "Energy40.avif",
+            "name": "RiteBite Nuts & Seeds Nutrition Bar - Pack of 2",
+            "category": "energy",
+            "weight": "2 x 35 g",
+            "price": "84",
+            "deleteprice": "90"
+        },
+        {
+            "id": "447",
+            "image": "Energy41.avif",
+            "name": "RiteBite Max Protein Active Choco Fudge Nutrition Bar + Max Protein Peri Peri Chips ",
+            "category": "energy",
+            "weight": "75 g + 60 g + 50 g",
+            "price": "230",
+            "deleteprice": "245"
+        },
+        {
+            "id": "448",
+            "image": "Energy42.avif",
+            "name": "RiteBite Fruits & Seeds Nutrition Bar + Nuts & Seeds Nutrition Bar ",
+            "category": "energy",
+            "weight": "35 g + 35 g + 40 g",
+            "price": "128",
+            "deleteprice": "135"
+        },
+        {
+            "id": "449",
+            "image": "Energy43.avif",
+            "name": "The Whole Truth Double Cocoa Protein Bar + The Whole Truth Almond Choco Fudge Energy Bar Combo",
+            "category": "energy",
+            "weight": "40 g + 52 g",
+            "price": "157",
+            "deleteprice": "175"
+        },
+        {
+            "id": "450",
+            "image": "Energy44.avif",
+            "name": "RiteBite Max Protein Bar (Peanut Butter) - Pack of 2",
+            "category": "energy",
+            "weight": "2 x 70 g",
+            "price": "236",
+            "deleteprice": "260"
+        },
+        {
+            "id": "451",
+            "image": "Energy45.avif",
+            "name": "Variety Protein Bar (Variety Pack)",
+            "category": "energy",
+            "weight": "6 x 30 g",
+            "price": "243",
+            "deleteprice": "270"
+        },
+        {
+            "id": "452",
+            "image": "Energy46.avif",
+            "name": "Crunch Protein Bar",
+            "category": "energy",
+            "weight": "3 x 50 g",
+            "price": "203",
+            "deleteprice": "225"
+        },
+        {
+            "id": "453",
+            "image": "Energy47.avif",
+            "name": "Phab Choco Berry Crunch Protein Bar",
+            "category": "energy",
+            "weight": "3 x 50 g",
+            "price": "203",
+            "deleteprice": "225"
+        },
+        {
+            "id": "454",
+            "image": "Energy48.avif",
+            "name": "Nature Valley Crunchy Oats & Dark Chocolate Granola Bar",
+            "category": "energy",
+            "weight": "210 g",
+            "price": "209",
+            "deleteprice": "400"
+        },
+        {
+            "id": "455",
+            "image": "Energy49.avif",
+            "name": "Yoga Bar Chocolate Chunk Nut Multigrain Protein Bar (38 g) + 10 g Dark Chocolate & Cranberry Protein Bar Combo",
+            "category": "energy",
+            "weight": "38 g + 50 g",
+            "price": "95",
+            "deleteprice": "125"
+        },
+        {
+            "id": "456",
+            "image": "Energy50.avif",
+            "name": "(Peanut Butter) + Max Protein Chinese Manchurian Chips Combo",
+            "category": "energy",
+            "weight": "70 g + 60 g",
+            "price": "161",
+            "deleteprice": "175"
+        },
+        {
+            "id": "457",
+            "image": "Energy51.avif",
+            "name": "RiteBite Max Protein Daily Choco Almond Protein Bar + Yogurt Berry Nutrition Bar Combo",
+            "category": "energy",
+            "weight": "50 g + 35 g",
+            "price": "113",
+            "deleteprice": "120"
+        },
+        {
+            "id": "458",
+            "image": "Energy52.avif",
+            "name": "RiteBite Max Protein Active Choco Slim Nutrition Bar + Max Protein Bar (Peanut Butter) Combo",
+            "category": "energy",
+            "weight": "67 g + 70 g",
+            "price": "234",
+            "deleteprice": "255"
+        },
+        {
+            "id": "459",
+            "image": "Energy53.avif",
+            "name": "RiteBite Peanut Butter Dark Chocolate Quinoa Crispies Oats Nutrition Bar + Max Protein Cream & Onion Chips Combo",
+            "category": "energy",
+            "weight": "40 g + 60 g",
+            "price": "85",
+            "deleteprice": "90"
+        },
+        {
+            "id": "460",
+            "image": "Energy54.avif",
+            "name": "Farmley Date Bites Dry Fruit Burfi (No Added Sugar)",
+            "category": "energy",
+            "weight": "180 g",
+            "price": "348",
+            "deleteprice": "400"
+        },
+        {
+            "id": "461",
+            "image": "Energy55.avif",
+            "name": "Choco Chips Cookies + Max Protein Daily Choco Almond Protein Bar",
+            "category": "energy",
+            "weight": "55 g + 50 g + 60 g",
+            "price": "160",
+            "deleteprice": "170"
+        },
+        {
+            "id": "462",
+            "image": "Energy56.avif",
+            "name": "RiteBite Peanut Butter Dark Chocolate Quinoa Crispies Oats Nutrition Bar ",
+            "category": "energy",
+            "weight": "40 g + 55 g + 60 g",
+            "price": "132",
+            "deleteprice": "140"
+        },
+        {
+            "id": "463",
+            "image": "Energy57.avif",
+            "name": "RiteBite Max Protein Spanish Tomato Chips",
+            "category": "energy",
+            "weight": "60 g + 40 g + 60 g",
+            "price": "127",
+            "deleteprice": "135"
+        },
+        {
+            "id": "464",
+            "image": "Energy58.avif",
+            "name": "RiteBite Max Protein Choco Chips Cookies + Max Protein Bar (Peanut Butter) + Max Protein Cream & Onion Chips Combo",
+            "category": "energy",
+            "weight": "55 g + 70 g + 60 g",
+            "price": "207",
+            "deleteprice": "225"
+        },
+        {
+            "id": "465",
+            "image": "Energy59.avif",
+            "name": "RiteBite Max Protein Cheese & Jalapeno Chips + Max Protein Active Choco Slim Nutrition Bar",
+            "category": "energy",
+            "weight": "60 g + 67 g + 40 g",
+            "price": "202",
+            "deleteprice": "215"
+        },
+        {
+            "id": "466",
+            "image": "Energy60.avif",
+            "name": "Yoga Bar Dark Chocolate Pancake Mix (No Maida, No Preservatives) + Chocolate Chunk Nut Multigrain Protein Bar (38 g) Combo",
+            "category": "energy",
+            "weight": "150 g + 38 g",
+            "price": "135",
+            "deleteprice": "200"
+        },
+        {
+            "id": "467",
+            "image": "Energy61.avif",
+            "name": "The Whole Truth Light Cocoa Whey Protein (24 g Protein Per Scoop, 6.6 g BCAA) + 20 g Protein Bar - Double Cocoa Combo",
+            "category": "energy",
+            "weight": "1 kg + 67 g",
+            "price": "3182",
+            "deleteprice": "4149"
+        },
+        {
+            "id": "468",
+            "image": "Energy62.avif",
+            "name": "Yoga Bar Banana Choco Chip Pancake Mix (No Maida, No Preservatives) + Chocolate Chunk Nut Multigrain Protein Bar (38 g) Combo",
+            "category": "energy",
+            "weight": "150 g + 38 g",
+            "price": "135",
+            "deleteprice": "200"
+        },
+        {
+            "id": "469",
+            "image": "Energy63.avif",
+            "name": "Yoga Bar Banana Choco Chip Pancake Mix (No Maida, No Preservatives) + Blueberry Pie Breakfast Protein Bar Combo",
+            "category": "energy",
+            "weight": "150 g + 50 g",
+            "price": "142",
+            "deleteprice": "210"
+        },
+        {
+            "id": "470",
+            "image": "Energy64.avif",
+            "name": "RiteBite Max Protein Active Choco Slim Nutrition Bar + Max Protein Choco Chips Cookies Combo",
+            "category": "energy",
+            "weight": "67 g + 55 g",
+            "price": "163",
+            "deleteprice": "175"
+        },
+        {
+            "id": "471",
+            "image": "Energy65.avif",
+            "name": "RiteBite Max Protein Peri Peri Chips + Peanut Butter Dark Chocolate Quinoa Crispies Oats Nutrition Bar Combo",
+            "category": "energy",
+            "weight": "60 g + 40 g",
+            "price": "85",
+            "deleteprice": "90"
+        },
+        {
+            "id": "472",
+            "image": "Energy66.avif",
+            "name": "RiteBite Max Protein Energy Bar (Fruit and Nut)",
+            "category": "energy",
+            "weight": "50 g",
+            "price": "71",
+            "deleteprice": "75"
+        },
+        {
+            "id": "473",
+            "image": "Energy67.avif",
+            "name": "RiteBite Max Protein Energy Bar (Fruit and Nut) - Pack of 2",
+            "category": "energy",
+            "weight": "2 x 50 g",
+            "price": "140",
+            "deleteprice": "150"
+        },
+        {
+            "id": "474",
+            "image": "Energy68.avif",
+            "name": "RiteBite Max Protein Daily Choco Berry Protein Bar + Max Protein Energy Bar (Fruit and Nut)",
+            "category": "energy",
+            "weight": "50 g + 50 g + 40 g",
+            "price": "183",
+            "deleteprice": "195"
+        },
+        {
+            "id": "475",
+            "image": "Energy69.avif",
+            "name": "RiteBite Choco Delite Breakfast Bar + Max Protein Energy Bar (Fruit and Nut) Combo",
+            "category": "energy",
+            "weight": "40 g + 50 g",
+            "price": "113",
+            "deleteprice": "120"
+        },
+        {
+            "id": "476",
+            "image": "Energy70.avif",
+            "name": "Yoga Bar Dark Chocolate Pancake Mix (No Maida, No Preservatives) + Blueberry Pie Breakfast Protein Bar Combo",
+            "category": "energy",
+            "weight": "150 g + 50 g",
+            "price": "163",
+            "deleteprice": "210"
+        },
+        {
+            "id": "477",
+            "image": "Energy71.avif",
+            "name": "Yoga Bar Banana Choco Chip Pancake Mix (No Maida, No Preservatives) + Chocolate Chunk Nut Multigrain Protein Bar (38 g) Combo",
+            "category": "energy",
+            "weight": "150 g + 38 g",
+            "price": "135",
+            "deleteprice": "200"
+        },
+        {
+            "id": "478",
+            "image": "Energy72.avif",
+            "name": "Yoga Bar Banana Choco Chip Pancake Mix (No Maida, No Preservatives) + Blueberry Pie Breakfast Protein Bar Combo",
+            "category": "energy",
+            "weight": "150 g + 50 g",
+            "price": "142",
+            "deleteprice": "210"
+        },
+        {
+            "id": "479",
+            "image": "Energy73.avif",
+            "name": "RiteBite Max Protein Active Choco Slim Nutrition Bar + Max Protein Choco Chips Cookies Combo",
+            "category": "energy",
+            "weight": "67 g + 55 g",
+            "price": "163",
+            "deleteprice": "175"
+        },
+        {
+            "id": "480",
+            "image": "Energy174.avif",
+            "name": "RiteBite Max Protein Peri Peri Chips + Peanut Butter Dark Chocolate Quinoa Crispies Oats Nutrition Bar Combo",
+            "category": "energy",
+            "weight": "60 g + 40 g",
+            "price": "85",
+            "deleteprice": "90"
+        },
+        {
+            "id": "481",
+            "image": "Energy75.avif",
+            "name": "Yoga Bar Chocolate Chunk Nut Multigrain Protein Bar (38 g)",
+            "category": "energy",
+            "weight": "38 g",
+            "price": "38",
+            "deleteprice": "50"
+        },
+        {
+            "id": "482",
+            "image": "Energy76.avif",
+            "name": "Yoga Bar Assorted Breakfast Protein Bar - Pack of 6",
+            "category": "energy",
+            "weight": "6 x 45 g",
+            "price": "241",
+            "deleteprice": "359"
+        },
+        {
+            "id": "483",
+            "image": "Energy77.avif",
+            "name": "RiteBite Max Protein Daily Choco Almond Protein Bar + Max Protein Daily Choco Berry Protein Bar",
+            "category": "energy",
+            "weight": "50 g + 50 g + 50 g",
+            "price": "₹207",
+            "deleteprice": "₹220"
+        },
+        {
+            "id": "484",
+            "image": "Energy78.avif",
+            "name": "Britannia Be You Almond Cranberry Nutrition Bar",
+            "category": "energy",
+            "weight": "35 g",
+            "price": "40",
+            "deleteprice": "50"
+        },
+        {
+            "id": "485",
+            "image": "Energy79.avif",
+            "name": "Yoga Bar Breakfast Apricot Fig Protein Bar",
+            "category": "energy",
+            "weight": "50 g",
+            "price": "50",
+            "deleteprice": ""
+        },
+        {
+            "id": "486",
+            "image": "Energy80.avif",
+            "name": "RiteBite Max Protein Spanish Tomato Chips",
+            "category": "energy",
+            "weight": "60 g + 40 g + 60 g",
+            "price": "₹127",
+            "deleteprice": "₹135"
+        },
+        {
+            "id": "487",
+            "image": "Lassi1.avif",
+            "name": "Amul Masti Spiced Salted Buttermilk",
+            "category": "lassi",
+            "weight": "1 l",
+            "price": "70",
+            "deleteprice": ""
+        },
+        {
+            "id": "488",
+            "image": "Lassi2.avif",
+            "name": "Amul Kool Badam Flavoured Milk",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "489",
+            "image": "Lassi3.avif",
+            "name": "Amul Sweet Lassi",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "20",
+            "deleteprice": ""
+        },
+        {
+            "id": "490",
+            "image": "Lassi4.avif",
+            "name": "Amul Sweet Lassi Tetra Pack (250 ml)",
+            "category": "lassi",
+            "weight": "250 ml",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "491",
+            "image": "Lassi5.avif",
+            "name": "SAmul Kool Kesar Flavoured Milk",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "492",
+            "image": "Lassi6.avif",
+            "name": "Amul Kool Koko Chocolate Flavoured Milk",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "35",
+            "deleteprice": ""
+        },
+        {
+            "id": "493",
+            "image": "Lassi7.avif",
+            "name": "Amul Kool Elaichi Flavoured Milk",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "₹25",
+            "deleteprice": ""
+        },
+        {
+            "id": "494",
+            "image": "Lassi8.avif",
+            "name": "Raw Pressery Cold Coffee Protein Milkshake",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "105",
+            "deleteprice": "110"
+        },
+        {
+            "id": "495",
+            "image": "Lassi9.avif",
+            "name": "Hershey's Chocolate Flavour Milkshake",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "38",
+            "deleteprice": "40"
+        },
+        {
+            "id": "496",
+            "image": "Lassi10.avif",
+            "name": "Amul Rose Lassi",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "497",
+            "image": "Lassi11.avif",
+            "name": "Amul Kool Cafe Milk 'n' Coffee Flavoured Milk (Can)",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "35",
+            "deleteprice": ""
+        },
+        {
+            "id": "498",
+            "image": "Lassi12.avif",
+            "name": "Amul Kool Rose Flavoured Milk",
+            "category": "lassi",
+            "weight": "180 mll",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "499",
+            "image": "Lassi13.avif",
+            "name": "Hershey's Cookies 'n' Creme Flavour Milkshake",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "38",
+            "deleteprice": "40"
+        },
+        {
+            "id": "500",
+            "image": "Lassi14.avif",
+            "name": "Amul Kool Badam Milkshake",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "40",
+            "deleteprice": ""
+        },
+        {
+            "id": "501",
+            "image": "Lassi15.avif",
+            "name": "Sleepy Owl Mocha Cold Coffee",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "125",
+            "deleteprice": ""
+        },
+        {
+            "id": "502",
+            "image": "Lassi16.avif",
+            "name": "Britannia Winkin Cow Vanilla Thick Milkshake",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "33",
+            "deleteprice": "35"
+        },
+        {
+            "id": "503",
+            "image": "Lassi17.avif",
+            "name": "Hershey's Coffee Mocha Flavor Milkshake",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "38",
+            "deleteprice": "40"
+        },
+        {
+            "id": "504",
+            "image": "Lassi18.avif",
+            "name": "Hershey's Strawberry Flavour Milkshake",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "38",
+            "deleteprice": "40"
+        },
+        {
+            "id": "505",
+            "image": "Lassi19.avif",
+            "name": "Raw Pressery Choco Mint Protein Milkshake",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "105",
+            "deleteprice": "110"
+        },
+        {
+            "id": "506",
+            "image": "Lassi20.avif",
+            "name": "Britannia Winkin Cow Mango Lassi",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "24",
+            "deleteprice": "25"
+        },
+        {
+            "id": "507",
+            "image": "Lassi21.avif",
+            "name": "Amul Sweet Lassi 1 l",
+            "category": "lassi",
+            "weight": "1 l",
+            "price": "90",
+            "deleteprice": ""
+        },
+        {
+            "id": "508",
+            "image": "Lassi22.avif",
+            "name": "Epigamia Origins Strawberry Milkshake",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "34",
+            "deleteprice": "40"
+        },
+        {
+            "id": "509",
+            "image": "Lassi23.avif",
+            "name": "Cavin's Chocolate Milkshake",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "32",
+            "deleteprice": "40"
+        },
+        {
+            "id": "510",
+            "image": "Lassi24.avif",
+            "name": "Britannia Winkin Cow Classic Sweet Lassi",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "20",
+            "deleteprice": ""
+        },
+        {
+            "id": "511",
+            "image": "Lassi25.avif",
+            "name": "Phab Classic Chocolate Protein Milkshake",
+            "category": "lassi",
+            "weight": "2 x 200 ml",
+            "price": "230",
+            "deleteprice": "270"
+        },
+        {
+            "id": "512",
+            "image": "Lassi26.avif",
+            "name": "Phab Cold Coffee Protein Milkshake",
+            "category": "lassi",
+            "weight": "2 x 200 ml",
+            "price": "230",
+            "deleteprice": "270"
+        },
+        {
+            "id": "513",
+            "image": "Lassi27.avif",
+            "name": "Amul Sugar Free Sweet Lassi",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "22",
+            "deleteprice": ""
+        },
+        {
+            "id": "514",
+            "image": "Lassi28.avif",
+            "name": "Epigamia Origins Vanilla Milkshake",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "34",
+            "deleteprice": "40"
+        },
+        {
+            "id": "515",
+            "image": "Lassi29.avif",
+            "name": "Hershey's Vanilla Milkshake - Pack of 3",
+            "category": "lassi",
+            "weight": "3 x 180 ml",
+            "price": "110",
+            "deleteprice": "120"
+        },
+        {
+            "id": "516",
+            "image": "Lassi30.avif",
+            "name": "Cavin's Vanilla Milkshake",
+            "category": "lassi",
+            "weight": "1 l",
+            "price": "136",
+            "deleteprice": "160"
+        },
+        {
+            "id": "517",
+            "image": "Lassi31.avif",
+            "name": "Amul Basundi",
+            "category": "lassi",
+            "weight": "1 l",
+            "price": "195",
+            "deleteprice": ""
+        },
+        {
+            "id": "518",
+            "image": "Lassi32.avif",
+            "name": "Amul Kadai Doodh Flavoured Milk",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "30",
+            "deleteprice": ""
+        },
+        {
+            "id": "519",
+            "image": "Lassi33.avif",
+            "name": "Amul Lactose Free Milk",
+            "category": "lassi",
+            "weight": "250 ml",
+            "price": "25",
+            "deleteprice": ""
+        },
+        {
+            "id": "520",
+            "image": "Lassi34.avif",
+            "name": "Yakult Probiotic Drink",
+            "category": "lassi",
+            "weight": "5 x 65 ml",
+            "price": "90",
+            "deleteprice": ""
+        },
+        {
+            "id": "521",
+            "image": "Lassi35.avif",
+            "name": "Yakult Light Probiotic Drink",
+            "category": "lassi",
+            "weight": "5 x 65 ml",
+            "price": "100",
+            "deleteprice": ""
+        },
+        {
+            "id": "522",
+            "image": "Lassi36.avif",
+            "name": "Britannia Winkin Cow Strawberry Thick Milkshake",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "33",
+            "deleteprice": "35"
+        },
+        {
+            "id": "523",
+            "image": "Lassi37.avif",
+            "name": "Amul Kool Classic Latte Flavoured Milk",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "38",
+            "deleteprice": "40"
+        },
+        {
+            "id": "524",
+            "image": "Lassi38.avif",
+            "name": "Amul Premium Spiced Salted Buttermilk",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "19",
+            "deleteprice": "20"
+        },
+        {
+            "id": "525",
+            "image": "Lassi39.avif",
+            "name": "Amul Kool Cafe Milk 'n' Coffee Flavoured Milk",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "30",
+            "deleteprice": ""
+        },
+        {
+            "id": "526",
+            "image": "Lassi40.avif",
+            "name": "Epigamia Origins Chocolate Milkshake",
+            "category": "lassi",
+            "weight": "180 ml",
+            "price": "34",
+            "deleteprice": "40"
+        },
+        {
+            "id": "527",
+            "image": "Lassi41.avif",
+            "name": "Phab Strawberries & Cream Protein Milkshake",
+            "category": "lassi",
+            "weight": "2 x 200 ml",
+            "price": "230",
+            "deleteprice": "270"
+        },
+        {
+            "id": "528",
+            "image": "Lassi42.avif",
+            "name": "Sunfeast Dark Fantasy Milkshake with Belgian Chocolate - Pack of 3",
+            "category": "lassi",
+            "weight": "3 x 180 ml",
+            "price": "90",
+            "deleteprice": "120"
+        },
+        {
+            "id": "529",
+            "image": "Lassi43.avif",
+            "name": "Phab Vanilla Almond Protein Milkshake",
+            "category": "lassi",
+            "weight": "2 x 200 ml",
+            "price": "230",
+            "deleteprice": "270"
+        },
+        {
+            "id": "530",
+            "image": "Lassi44.avif",
+            "name": "Amul Kool Cafe Cinnamon Flavoured Milk",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "30",
+            "deleteprice": ""
+        },
+        {
+            "id": "531",
+            "image": "Lassi45.avif",
+            "name": "Amul Kool Cafe Hazelnut Flavoured Milk",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "30",
+            "deleteprice": ""
+        },
+        {
+            "id": "532",
+            "image": "Lassi46.avif",
+            "name": "Amul Kool Strawberry Flavoured Milk",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "₹30",
+            "deleteprice": ""
+        },
+        {
+            "id": "533",
+            "image": "Lassi47.avif",
+            "name": "Amul Mango Lassi",
+            "category": "lassi",
+            "weight": "1 l",
+            "price": "108",
+            "deleteprice": "180"
+        },
+        {
+            "id": "534",
+            "image": "Lassi48.avif",
+            "name": "Sunfeast Mango Smoothie with Mango Chunks",
+            "category": "lassi",
+            "weight": "180 mll",
+            "price": "₹40",
+            "deleteprice": ""
+        },
+        {
+            "id": "535",
+            "image": "Lassi49.avif",
+            "name": "Amul Kool Mango Milkshake",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "30",
+            "deleteprice": ""
+        },
+        {
+            "id": "536",
+            "image": "Lassi50.avif",
+            "name": "MTR Badam Drink Mix",
+            "category": "lassi",
+            "weight": "500 g",
+            "price": "250",
+            "deleteprice": "295"
+        },
+        {
+            "id": "537",
+            "image": "Lassi51.avif",
+            "name": "Sleepy Owl Mocha Cold Coffee",
+            "category": "lassi",
+            "weight": "200 ml",
+            "price": "125",
+            "deleteprice": ""
+        },
+        {
+            "id": "538",
+            "image": "Breakfast1.avif",
+            "name": "MTR 3 Minute Veggie Upma Breakfast Mix",
+            "category": "breakfast",
+            "weight": "60 g",
+            "price": "27",
+            "deleteprice": ""
+        },
+        {
+            "id": "539",
+            "image": "Breakfast2.avif",
+            "name": "MTR 3 Minute Poha Breakfast Mix",
+            "category": "breakfast",
+            "weight": "60 g",
+            "price": "27",
+            "deleteprice": ""
+        },
+        {
+            "id": "540",
+            "image": "Breakfast3.avif",
+            "name": "MTR Dosa Breakfast Mix",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "109",
+            "deleteprice": "145"
+        },
+        {
+            "id": "541",
+            "image": "Breakfast4.avif",
+            "name": "MTR 3 Minute Khatta Meetha Poha Breakfast Mix",
+            "category": "breakfast",
+            "weight": "60 g",
+            "price": "27",
+            "deleteprice": ""
+        },
+        {
+            "id": "542",
+            "image": "Breakfast5.avif",
+            "name": "Gits Khaman Dhokla Instant Mix",
+            "category": "breakfast",
+            "weight": "180 g",
+            "price": "64",
+            "deleteprice": "75"
+        },
+        {
+            "id": "543",
+            "image": "Breakfast6.avif",
+            "name": "MTR Rava Idli Breakfast Mix",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "130",
+            "deleteprice": "140"
+        },
+        {
+            "id": "544",
+            "image": "Breakfast7.avif",
+            "name": "Aashirvaad Instant Khatta Meetha Poha Ready to Eat",
+            "category": "breakfast",
+            "weight": "60 g",
+            "price": "27",
+            "deleteprice": ""
+        },
+        {
+            "id": "545",
+            "image": "Breakfast8.avif",
+            "name": "Aashirvaad Instant Veggie Upma Ready to Eat",
+            "category": "breakfast",
+            "weight": "60 g",
+            "price": "27",
+            "deleteprice": ""
+        },
+        {
+            "id": "546",
+            "image": "Breakfast9.avif",
+            "name": "MTR Rice Idli Breakfast Mix",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "135",
+            "deleteprice": "145"
+        },
+        {
+            "id": "547",
+            "image": "Breakfast10.avif",
+            "name": "MTR Sambhar Instant Mix",
+            "category": "breakfast",
+            "weight": "180 g",
+            "price": "105",
+            "deleteprice": ""
+        },
+        {
+            "id": "548",
+            "image": "Breakfast11.avif",
+            "name": "MTR Upma Breakfast Mix",
+            "category": "breakfast",
+            "weight": "160 g",
+            "price": "55",
+            "deleteprice": "60"
+        },
+        {
+            "id": "549",
+            "image": "Breakfast12.avif",
+            "name": "Aashirvaad Instant Mini Idli Sambhar Ready to Eat",
+            "category": "breakfast",
+            "weight": "75 g",
+            "price": "58",
+            "deleteprice": "75"
+        },
+        {
+            "id": "550",
+            "image": "Breakfast13.avif",
+            "name": "MTR Masala Upma Breakfast Mix",
+            "category": "breakfast",
+            "weight": "160 g",
+            "price": "87",
+            "deleteprice": ""
+        },
+        {
+            "id": "551",
+            "image": "Breakfast14.avif",
+            "name": "MTR Vermicelli- Upma",
+            "category": "breakfast",
+            "weight": "160 g",
+            "price": "55",
+            "deleteprice": "65"
+        },
+        {
+            "id": "552",
+            "image": "Breakfast15.avif",
+            "name": "Tata Soulfull Mast Masala Oats With 25% Millets, Non sticky",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "175",
+            "deleteprice": "239"
+        },
+        {
+            "id": "553",
+            "image": "Breakfast16.avif",
+            "name": "Gits Upma Breakfast Mix",
+            "category": "breakfast",
+            "weight": "200 g",
+            "price": "69",
+            "deleteprice": "75"
+        },
+        {
+            "id": "554",
+            "image": "Breakfast17.avif",
+            "name": "MTR Uttappam Breakfast Mix",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "150",
+            "deleteprice": ""
+        },
+        {
+            "id": "555",
+            "image": "Breakfast18.avif",
+            "name": "Tata Soulfull Desi Veggie Masala Oats With 25% Millets, Non Sticky",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "201",
+            "deleteprice": "239"
+        },
+        {
+            "id": "556",
+            "image": "Breakfast19.avif",
+            "name": "Aashirvaad Rava Idli Instant Mix",
+            "category": "breakfast",
+            "weight": "1 kg",
+            "price": "181",
+            "deleteprice": "300"
+        },
+        {
+            "id": "557",
+            "image": "Breakfast20.avif",
+            "name": "MTR Vada Breakfast Mix",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "220",
+            "deleteprice": ""
+        },
+        {
+            "id": "558",
+            "image": "Breakfast21.avif",
+            "name": "MTR Rava Dosa Breakfast Mix",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "150",
+            "deleteprice": ""
+        },
+        {
+            "id": "559",
+            "image": "Breakfast22.avif",
+            "name": "Gits Rava Dosa Breakfast Mix",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "128",
+            "deleteprice": "145"
+        },
+        {
+            "id": "560",
+            "image": "Breakfast23.avif",
+            "name": "True Elements Quinoa - Gluten Free & 100% Wholegrain",
+            "category": "breakfast",
+            "weight": "1 kg",
+            "price": "280",
+            "deleteprice": "650"
+        },
+        {
+            "id": "561",
+            "image": "Breakfast24.avif",
+            "name": "Bagrry's Exotic Fruits with Cranberries & Almonds Granola",
+            "category": "breakfast",
+            "weight": "400 g",
+            "price": "316",
+            "deleteprice": "₹365"
+        },
+        {
+            "id": "562",
+            "image": "Breakfast25.avif",
+            "name": "Gits Dosa Breakfast Mix",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "135",
+            "deleteprice": "150"
+        },
+        {
+            "id": "563",
+            "image": "Breakfast26.avif",
+            "name": "Bagrry's Belgian Dark Chocolate & Almonds Granola",
+            "category": "breakfast",
+            "weight": "400 g",
+            "price": "346",
+            "deleteprice": "399"
+        },
+        {
+            "id": "564",
+            "image": "Breakfast27.avif",
+            "name": "Gits Rava Idli Breakfast Mix",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "134",
+            "deleteprice": "145"
+        },
+        {
+            "id": "565",
+            "image": "Breakfast28.avif",
+            "name": "MTR Masala Rava Idli Breakfast Mix",
+            "category": "breakfast",
+            "weight": "500 g",
+            "price": "130",
+            "deleteprice": "140"
+        },
+        {
+            "id": "566",
+            "image": "Breakfast29.avif",
+            "name": "MTR 3 Minute Upma Mix - Pack of 5",
+            "category": "breakfast",
+            "weight": "5 x 60 g",
+            "price": "135",
+            "deleteprice": ""
+        },
+        {
+            "id": "567",
+            "image": "Honey1.avif",
+            "name": "Dabur 100% Pure Honey",
+            "category": "honey",
+            "weight": "100 g",
+            "price": "67",
+            "deleteprice": "70"
+        },
+        {
+            "id": "568",
+            "image": "Honey2.avif",
+            "name": "Dabur 100% Pure Honey",
+            "category": "honey",
+            "weight": "250 g",
+            "price": "115",
+            "deleteprice": "125"
+        },
+        {
+            "id": "569",
+            "image": "Honey3.avif",
+            "name": "Dabur 100% Pure Squeezy Honey - Buy 1 Get 1 Free",
+            "category": "honey",
+            "weight": "2 x 225 g",
+            "price": "220",
+            "deleteprice": "249"
+        },
+        {
+            "id": "570",
+            "image": "Honey4.avif",
+            "name": "Dabur Organic Honey",
+            "category": "honey",
+            "weight": "300 g",
+            "price": "252",
+            "deleteprice": "279"
+        },
+        {
+            "id": "571",
+            "image": "Honey5.avif",
+            "name": "Patanjali Honey",
+            "category": "honey",
+            "weight": "500 g",
+            "price": "210",
+            "deleteprice": ""
+        },
+        {
+            "id": "572",
+            "image": "Honey6.avif",
+            "name": "Saffola Pure Honey Active - Buy 1 Get 1 Free",
+            "category": "honey",
+            "weight": "2 x 350 g",
+            "price": "200",
+            "deleteprice": "399"
+        },
+        {
+            "id": "573",
+            "image": "Honey7.avif",
+            "name": "Dabur 100 % Pure Squeezy Honey - Buy 1 Get 1 Free",
+            "category": "honey",
+            "weight": "400 g + 400 g",
+            "price": "366",
+            "deleteprice": "420"
+        },
+        {
+            "id": "574",
+            "image": "Honey8.avif",
+            "name": "Nature's Nectar 100% Pure Natural Honey",
+            "category": "honey",
+            "weight": "1 kg",
+            "price": "409",
+            "deleteprice": "575"
+        },
+        {
+            "id": "575",
+            "image": "Honey9.avif",
+            "name": "Apis Himalaya Honey - Buy 1 Get 1 Free",
+            "category": "honey",
+            "weight": "2 x 225 g",
+            "price": "164",
+            "deleteprice": "165"
+        },
+        {
+            "id": "576",
+            "image": "Honey10.avif",
+            "name": "Dabur 100 % Pure Honey (Refill Pouch)",
+            "category": "honey",
+            "weight": "750 g",
+            "price": "253",
+            "deleteprice": "365"
+        },
+        {
+            "id": "577",
+            "image": "Honey11.avif",
+            "name": "Apis Multifloral Honey Squeezy",
+            "category": "honey",
+            "weight": "400 g",
+            "price": "103",
+            "deleteprice": "199"
+        },
+        {
+            "id": "578",
+            "image": "Honey12.avif",
+            "name": "Nature's Nectar Squeezy Organic Honey",
+            "category": "honey",
+            "weight": "325 g",
+            "price": "284",
+            "deleteprice": "525"
+        },
+        {
+            "id": "579",
+            "image": "Honey13.avif",
+            "name": "Apis Multifloral Honey",
+            "category": "honey",
+            "weight": "1 kg",
+            "price": "219",
+            "deleteprice": "460"
+        },
+        {
+            "id": "580",
+            "image": "Honey14.avif",
+            "name": "Organic India Multi Floral Organic Honey",
+            "category": "honey",
+            "weight": "500 g",
+            "price": "400",
+            "deleteprice": "425"
+        },
+        {
+            "id": "581",
+            "image": "Honey15.avif",
+            "name": "Patanjali Honey Squeezy - Buy 1 Get 1 Free",
+            "category": "honey",
+            "weight": "400 g + 400 g",
+            "price": "325",
+            "deleteprice": ""
+        },
+        {
+            "id": "582",
+            "image": "Honey16.avif",
+            "name": "Saffola Honey Active",
+            "category": "honey",
+            "weight": "1 kg",
+            "price": "282",
+            "deleteprice": "495"
+        },
+        {
+            "id": "583",
+            "image": "Honey17.avif",
+            "name": "Nature's Nectar Organic Ginger Honey for Cough",
+            "category": "honey",
+            "weight": "325 g",
+            "price": "447",
+            "deleteprice": "595"
+        },
+        {
+            "id": "584",
+            "image": "Honey18.avif",
+            "name": "Apis Himalaya Honey - Buy 1 Get 1 Free",
+            "category": "honey",
+            "weight": "2 x 500 g",
+            "price": "319",
+            "deleteprice": "325"
+        },
+        {
+            "id": "585",
+            "image": "Honey19.avif",
+            "name": "Nature's Nectar Jamun Honey",
+            "category": "honey",
+            "weight": "400 g",
+            "price": "372",
+            "deleteprice": "495"
+        },
+        {
+            "id": "586",
+            "image": "Honey20.avif",
+            "name": "Dabur Himalayan Shilajit + Organic Honey Combo",
+            "category": "honey",
+            "weight": "15 g + 300 g",
+            "price": "1037",
+            "deleteprice": "1729"
+        },
+        {
+            "id": "587",
+            "image": "Honey21.avif",
+            "name": "Dabur Himalayan Shilajit + 100 % Pure Squeezy Honey - Buy 1 Get 1 Free Combo",
+            "category": "honey",
+            "weight": "15 g + 400 g + 400 g",
+            "price": "1218",
+            "deleteprice": "1870"
+        },
+        {
+            "id": "588",
+            "image": "Honey22.avif",
+            "name": "Dabur 100 % Pure Squeezy Honey - Buy 1 Get 1 Free + Vedic Tea Combo",
+            "category": "honey",
+            "weight": "400 g + 400 g + 500 g",
+            "price": "559",
+            "deleteprice": "745"
+        },
+        {
+            "id": "589",
+            "image": "Honey23.avif",
+            "name": "Dabur Chyawanprash",
+            "category": "honey",
+            "weight": "250 g",
+            "price": "99",
+            "deleteprice": "115"
+        },
+        {
+            "id": "590",
+            "image": "Honey24.avif",
+            "name": "Dabur Immunity Chyawanprash",
+            "category": "honey",
+            "weight": "500 g",
+            "price": "217",
+            "deleteprice": "235"
+        },
+        {
+            "id": "591",
+            "image": "Honey25.avif",
+            "name": "Dabur Immunity Chyawanprash ",
+            "category": "honey",
+            "weight": "950 g",
+            "price": "338",
+            "deleteprice": "410"
+        },
+        {
+            "id": "592",
+            "image": "Honey26.avif",
+            "name": "Patanjali Chyawanprash",
+            "category": "honey",
+            "weight": "1 kg",
+            "price": "258",
+            "deleteprice": "280"
+        },
+        {
+            "id": "593",
+            "image": "Honey27.avif",
+            "name": "Dabur Chyawanprash (Sugar Free)",
+            "category": "honey",
+            "weight": "900 g",
+            "price": "387",
+            "deleteprice": "460"
+        },
+        {
+            "id": "594",
+            "image": "Honey28.avif",
+            "name": "Dabur Chyawanprash Awaleha (Gur)",
+            "category": "honey",
+            "weight": "900 g",
+            "price": "353",
+            "deleteprice": "415"
+        },
+        {
+            "id": "595",
+            "image": "Honey29.avif",
+            "name": "Dabur Jamun Neem Karela Health Juice",
+            "category": "honey",
+            "weight": "1 l + 2 x 225 g",
+            "price": "461",
+            "deleteprice": "584"
+        },
+        {
+            "id": "596",
+            "image": "Honey30.avif",
+            "name": "Saffola Honey Active (500 g)",
+            "category": "honey",
+            "weight": "500 g",
+            "price": "140",
+            "deleteprice": "199"
+        },
+        {
+            "id": "597",
+            "image": "Honey31.avif",
+            "name": "Apis Multifloral Honey Squeezy",
+            "category": "honey",
+            "weight": "400 g",
+            "price": "103",
+            "deleteprice": "199"
+        },
+        {
+            "id": "598",
+            "image": "Honey32.avif",
+            "name": "Nature's Nectar Organic Honey",
+            "category": "honey",
+            "weight": "400 g",
+            "price": "403",
+            "deleteprice": "575"
+        },
+        {
+            "id": "599",
+            "image": "Honey33.avif",
+            "name": "Patanjali Honey Squeezy - Buy 1 Get 1 Free",
+            "category": "honey",
+            "weight": "400 g + 400 g",
+            "price": "286",
+            "deleteprice": "325"
+        },
+        {
+            "id": "600",
+            "image": "Honey34.avif",
+            "name": "Dabur 100 % Pure Squeezy Honey - Buy 1 Get 1 Free",
+            "category": "honey",
+            "weight": "400 g + 400 g + 500 g",
+            "price": "559",
+            "deleteprice": "745"
+        },
+        {
+            "id": "601",
+            "image": "Honey35.avif",
+            "name": "Patanjali Special Chyawanprash (With Saffron)",
+            "category": "honey",
+            "weight": "500 g",
+            "price": "163",
+            "deleteprice": "185"
+        },
+        {
+            "id": "602",
+            "image": "Honey36.avif",
+            "name": "Dabur Khajurprash Khajur Delight",
+            "category": "honey",
+            "weight": "900 g",
+            "price": "383",
+            "deleteprice": "450"
+        },
+        {
+            "id": "603",
+            "image": "Honey37.avif",
+            "name": "Get 1 Free + Dabur Vedic Tea Combo",
+            "category": "honey",
+            "weight": "2 X 225 g + 500 g",
+            "price": "431",
+            "deleteprice": "574"
+        },
+        {
+            "id": "604",
+            "image": "Honey38.avif",
+            "name": "Dabur Immunity Chyawanprash (2 kg)",
+            "category": "honey",
+            "weight": "2 kg",
+            "price": "595",
+            "deleteprice": ""
+        },
+        {
+            "id": "605",
+            "image": "Batter1.avif",
+            "name": "Fresham Foods Idli & Dosa Batter",
+            "category": "batter",
+            "weight": "1 kg",
+            "price": "75",
+            "deleteprice": ""
+        },
+        {
+            "id": "606",
+            "image": "Batter2.avif",
+            "name": "Slurrp Farm Beetroot Dosa Mix",
+            "category": "batter",
+            "weight": "150 g",
+            "price": "119",
+            "deleteprice": ""
+        },
+        {
+            "id": "607",
+            "image": "Batter3.avif",
+            "name": "Slurrp Farm Spinach Dosa Mix",
+            "category": "batter",
+            "weight": "150 g",
+            "price": "119",
+            "deleteprice": ""
+        },
+        {
+            "id": "608",
+            "image": "Batter4.avif",
+            "name": "Timios Spinach Millet Dosa Mix Ready to Cook",
+            "category": "batter",
+            "weight": "2 X 150 ml",
+            "price": "126",
+            "deleteprice": "190"
+        }
+    ]
+}
