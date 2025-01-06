@@ -137,14 +137,7 @@ export default function Nav() {
 
           <div
             className="TOTAL p-4 h-[57px] w-[364px] bg-[#0c831f] text-white flex justify-evenly items-center"
-            style={{
-              position: "fixed",
-              bottom: "5px",
-              right: "0",
-              boxShadow: "0 -2px 5px rgba(0,0,0,0.1)",
-              zIndex: "10",
-            }}
-          >
+            style={{ position: "fixed", bottom: "5px", right: "0", boxShadow: "0 -2px 5px rgba(0,0,0,0.1)", zIndex: "10",}}>
             <div className="h-[37px] w-[96px] flex flex-col rounded-[12px]">
               <div className="text-[15px] font-bold">₹ {totalPrice1.toFixed(2)}</div>
               <div className="text-[12px] mt-[1px] text-[#fff] font-light tracking-widest uppercase">
